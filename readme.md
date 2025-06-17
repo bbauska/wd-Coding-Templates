@@ -63,419 +63,262 @@ a more optimized site, you're encouraged to do so.</p>
 </table>
 
 <h2 id="nav-menu-breadcrumbs">Example #1 of 4</h2>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. example #1 navigation menu templates ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 02. example #1 of 4 navigation menu templates ~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image002.png" 
   title="Example 1 of 4; Navigation Menus &amp; Breadcrumbs Templates"
   alt="Example 1 of 4; Navigation Menus &amp; Breadcrumbs Templates."
-  style="width:50%;" />
+  style="width:75%;" />
 </p>
 
-## The HTML
+<h3>The HTML</h3>
 
 \<div class=\"container\"\>
-
 \<nav\>
-
 > \<ul class=\"bar\"\>
->
 > \<li\>\<a href=\"#\"\>Home\</a\>\</li\>
->
 > \<li\>\<a href=\"#\"\>About\</a\>\</li\>
->
 > \<li\>\<a href=\"#\" class=\"active\"\>Contact\</a\>\</li\>
->
 > \<li\>\<a href=\"#\"\>Careers\</a\>\</li\>
->
 > \</ul\>
-
 \</nav\>
-
 \</div\>
 
-## The CSS
-
+<h3>The CSS</h3>
+<pre>
 .bar {
-
-background-color: rgb(245, 193, 97);
-
-width: 100%;
-
-height: 40px;
-
-display: flex;
-
-list-style: none;
-
-padding: 0;
-
+  background-color: rgb(245, 193, 97);
+  width: 100%;
+  height: 40px;
+  display: flex;
+  list-style: none;
+  padding: 0;
 }
-
 .bar li {
-
-height: 100%;
-
-width: 100px;
-
-border-right: 1px solid rgb(235, 177, 69);
-
+  height: 100%;
+  width: 100px;
+  border-right: 1px solid rgb(235, 177, 69);
 }
-
 .bar li a {
-
-color: black;
-
-width: 100%;
-
-height: 100%;
-
-display: flex;
-
-align-items: center;
-
-justify-content: center;
-
-text-decoration: none;
-
+  color: black;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
 }
-
 .bar li a:hover {
-
-background-color: rgb(235, 177, 69);
-
+  background-color: rgb(235, 177, 69);
 }
-
 .bar li a.active {
-
-background-color: rgb(165, 113, 16);
-
-color: white;
-
+  background-color: rgb(165, 113, 16);
+  color: white;
 }
+</pre>
 
-#  
+<h2>Examples #2 of 4</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 03. example #2 of 4 navigation menu templates ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image003.png" 
+  title="Example 2 of 4; Navigation Menus &amp; Breadcrumbs Templates"
+  alt="Example 2 of 4; Navigation Menus &amp; Breadcrumbs Templates."
+  style="width:25%;" />
+</p>
 
-# Examples #2
-
-![](./myImages/media/image3.png){width="1.7239588801399826in"
-height="1.7239588801399826in"}
-
-## The HTML
+<h3>The HTML</h3>
 
 \<div class=\"container\"\>
-
 \<nav\>
-
 \<ul class=\"bar\"\>
-
 \<li\>\<a href=\"#\"\>Home\</a\>\</li\>
-
 \<li\>\<a href=\"#\"\>About\</a\>\</li\>
-
 \<li\>\<a href=\"#\"\>Contact\</a\>\</li\>
-
 \<li\>\<a href=\"#\" class=\"active\"\>Careers\</a\>\</li\>
-
 \</ul\>
-
 \</nav\>
-
 \</div\>
 
-## The CSS
-
+<h3>The CSS</h3>
+<pre>
 .bar {
-
-background-color: rgb(245, 193, 97);
-
-max-width: 200px;
-
-width: 100%;
-
-list-style: none;
-
-padding: 0;
-
+  background-color: rgb(245, 193, 97);
+  max-width: 200px;
+  width: 100%;
+  list-style: none;
+  padding: 0;
 }
-
 .bar li {
-
-height: 100%;
-
-width: 100%;
-
-height: 50px;
-
-border-bottom: 1px solid rgb(235, 177, 69);
-
+  height: 100%;
+  width: 100%;
+  height: 50px;
+  border-bottom: 1px solid rgb(235, 177, 69);
 }
-
 .bar li a {
-
-padding-left: 20px;
-
-text-align: left;
-
-color: black;
-
-max-width: 100%;
-
-height: 100%;
-
-display: flex;
-
-align-items: center;
-
-text-decoration: none;
-
+  padding-left: 20px;
+  text-align: left;
+  color: black;
+  max-width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
 }
-
 .bar li a:hover {
-
-background-color: rgb(235, 177, 69);
-
+  background-color: rgb(235, 177, 69);
 }
-
 .bar li a.active {
-
-background-color: rgb(165, 113, 16);
-
-color: white;
-
+  background-color: rgb(165, 113, 16);
+  color: white;
 }
+</pre>
 
-#  
-
-# Third example
-
-![](./myImages/media/image4.png){width="5.947916666666667in"
-height="1.09375in"}
-
-## The HTML
+<h2>Third example of 4</h2>
+<!--  ![](./images/image004.png){width="5.947916666666667in" height="1.09375in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 04. example #3 of 4 navigation menu templates ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image004.png" 
+  title="Example 3 of 4; Navigation Menus &amp; Breadcrumbs Templates"
+  alt="Example 3 of 4; Navigation Menus &amp; Breadcrumbs Templates."
+  style="width:50%;" />
+</p>
+<h3>The HTML</h3>
 
 \<div class=\"container\"\>
-
 \<nav\>
-
 \<ul class=\"bar\"\>
-
 \<li\>\<a href=\"#\" class=\"active\"\>Home\</a\>\</li\>
-
 \<li class=\"has-dropdown\"\>
-
 \<a href=\"#\"\>About\</a\>
-
 \<ul class=\"dropdown\"\>
-
 \<li\>\<a href=\"#\"\>The Company\</a\>\</li\>
-
 \<li\>\<a href=\"#\"\>The Team\</a\>\</li\>
-
 \</ul\>
-
 \</li\>
-
 \<li class=\"has-dropdown\"\>
-
 \<a href=\"#\"\>Contact\</a\>
-
 \<ul class=\"dropdown\"\>
-
 \<li\>\<a href=\"#\"\>Email\</a\>\</li\>
-
 \<li\>\<a href=\"#\"\>Phone\</a\>\</li\>
-
 \</ul\>
-
 \</li\>
-
 \<li\>\<a href=\"#\"\>Careers\</a\>\</li\>
-
 \</ul\>
-
 \</nav\>
-
 \</div\>
 
-## The CSS
-
-\* {
-
-box-sizing: border-box;
-
+<h3>The CSS</h3>
+<pre>
+&ast; {
+  box-sizing: border-box;
 }
-
 .bar {
-
-background-color: rgb(245, 193, 97);
-
-width: 100%;
-
-height: 40px;
-
-display: flex;
-
-list-style: none;
-
-padding: 0;
-
+  background-color: rgb(245, 193, 97);
+  width: 100%;
+  height: 40px;
+  display: flex;
+  list-style: none;
+  padding: 0;
 }
-
 .bar li {
-
-height: 100%;
-
-width: 120px;
-
-border-right: 1px solid rgb(235, 177, 69);
-
+  height: 100%;
+  width: 120px;
+  border-right: 1px solid rgb(235, 177, 69);
 }
-
 .bar li a {
-
-color: black;
-
-width: 100%;
-
-height: 100%;
-
-display: flex;
-
-align-items: center;
-
-justify-content: center;
-
-text-decoration: none;
-
+  color: black;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
 }
-
 .bar .has-dropdown ul li a{
-
-padding: 12px 0;
-
+  padding: 12px 0;
 }
-
 .bar li a:hover {
-
-background-color: rgb(235, 177, 69);
-
+  background-color: rgb(235, 177, 69);
 }
-
 .bar li a.active {
-
-background-color: rgb(165, 113, 16);
-
-color: white;
-
+  background-color: rgb(165, 113, 16);
+  color: white;
 }
-
 .dropdown {
-
-background-color: rgb(245, 193, 97);
-
-padding: 0;
-
-list-style: none;
-
-display: none;
-
+  background-color: rgb(245, 193, 97);
+  padding: 0;
+  list-style: none;
+  display: none;
 }
-
 .bar li.has-dropdown:hover .dropdown {
-
-display: block;
-
+  display: block;
 }
+</pre>
 
-#  
-
-# Fourth example
-
-![](./myImages/media/image5.png){width="6.5in"
-height="0.5833333333333334in"}
-
-## The HTML
+<h2>Fourth example of 4</h2>
+<!--  ![](./myImages/media/image5.png){width="6.5in" height="0.5833333333333334in"}  -->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 05. example #4 of 4 navigation menu templates ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image005.png" 
+  title="Example 4 of 4; Navigation Menus &amp; Breadcrumbs Templates"
+  alt="Example 4 of 4; Navigation Menus &amp; Breadcrumbs Templates."
+  style="width:75%;" />
+</p>
+<h3>The HTML</h3>
 
 \<div class=\"container\"\>
-
 \<ul class=\"breadcrumb\"\>
-
 \<li\>\<a href=\"#\" class=\"active\"\>Home\</a\>\</li\>
-
 \<li\>\<span\>\>\</span\>\</li\>
-
 \<li\>\<a href=\"#\"\>Products\</a\>\</li\>
-
 \<li\>\<span\>\>\</span\>\</li\>
-
 \<li\>\<a href=\"#\"\>Computers\</a\>\</li\>
-
 \<li\>\<span\>\>\</span\>\</li\>
-
 \<li\>\<a href=\"#\" class=\"unique\"\>Laptops\</a\>\</li\>
-
 \</ul\>
-
 \</div\>
 
-## The CSS
-
+<h3>The CSS</h3>
+<pre>
 .breadcrumb {
-
-list-style: none;
-
-padding: 0;
-
-display: flex;
-
-font-size: 20px;
-
-justify-content: space-around;
-
-max-width: 450px;
-
+  list-style: none;
+  padding: 0;
+  display: flex;
+  font-size: 20px;
+  justify-content: space-around;
+  max-width: 450px;
 }
-
 .breadcrumb a {
-
-text-decoration: none;
-
-color: rgb(110, 110, 110);
-
-font-weight: bold;
-
+  text-decoration: none;
+  color: rgb(110, 110, 110);
+  font-weight: bold;
 }
-
 .breadcrumb li span{
-
-color: gray;
-
+  color: gray;
 }
-
 .breadcrumb li a {
-
-color: orange;
-
-transition: color 300ms;
-
+  color: orange;
+  transition: color 300ms;
 }
-
 .breadcrumb li .unique {
-
-color: #000;
-
+  color: #000;
 }
-
 .breadcrumb li a:hover {
-
-color: rgb(176, 115, 0);
-
+  color: rgb(176, 115, 0);
 }
+</pre>
 
-# 3 Button Transition Templates
+<h2 id="button-transition">3 Button Transition Templates</h2>
 
-# Example #1
+<h2>Example #1 of 3</h2>
 
 ![](./myImages/media/image6.png){width="6.5in"
 height="1.5138888888888888in"}
