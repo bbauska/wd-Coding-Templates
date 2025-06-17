@@ -1,69 +1,76 @@
-<!--~~~~~~~~~~~~~~~~~ 01. logo ~~~~~~~~~~~~~~~~~-->
+<h1 id="Coding-Templates">35 Coding Templates for HTML, CSS, and JavaScript</h1>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. logo for webdev coding templates ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image001.png" 
-  title=""
-  alt="."
-  style="width:10%; />
+  title="Logo for WebDev Coding Templates"
+  alt="Logo for WebDev Coding Templates."
+  style="width:25%;" />
 </p>
-
-+-----------------------------------------------------------------------+
-| # 35 Coding Templates for HTML, CSS,                                  |
-|                                                                       |
-| # and JavaScript                                                      |
-+-----------------------------------------------------------------------+
 
 <p>You can edit your own version in one of two ways:</p>
 <ol type="1">
   <li>Edit this version to fit your needs</li>
   <li>Go to "File" \&gt; "Download As" \&gt; "Microsoft Word" to Download</li>
 </ol>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>How to Use This Template</h3>
-
-<p>Copy and paste these code templates into your CMS for the desired
-product on your website.</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p>Copy and paste these code templates into your CMS for the desired product on your 
+website.</p>
 <blockquote>
-Remember that you can adjust these to suit your needs. These templates
-are designed to be completely customizable.
+Remember that you can adjust these to suit your needs. These templates are designed to be 
+completely customizable.
 </blockquote>
-
 <p>As such, if you need to make any adjustments to these code snippets for
 a more optimized site, you're encouraged to do so.</p>
 
 <p>Jump to a Template</p>
 <table>
   <tr>
-    <td><a href="#nav-menu-breadcrumbs-templates">Navigation Menus &amp; Breadcrumbs Templates</a></td>
-	<td><a href="#button-transition-templates">Button Transition Templates</a></td>
+    <td><a href="#nav-menu-breadcrumbs">Navigation Menus &amp; Breadcrumbs Templates (4 ex's)</a></td>
+	<td><a href="#button-transition">Button Transition Templates (3 ex's)</a></td>
   </tr>
   <tr>
-    <td><a href="#9jhjudypc6m5">Web Form &amp; Search Bar Templates</a></td>
-	<td><a href="#lightbox-modal-element-template">LightBox Modal Element Templates</a></td>
+    <td><a href="#web-form-search-bar">9jhjudypc6m5">Web Form &amp; Search Bar Templates (3 ex's)</a></td>
+	<td><a href="#lightbox-modal-element">LightBox Modal Element Templates (1 example)</a></td>
   </tr>
-derline}](#example-1) Templates]{.underline}]()
+  <tr>
+    <td><a href="#tooltip">Tooltip Templates (4 ex's)</a></td>
+	<td><a href="#progress-bar">Progress Bar Templates (2 ex's)</a></td>
+  </tr>
+  <tr>
+    <td><a href="#css-accordian">CSS Accordian Templates (2 ex's)</a></td>
+	<td><a href="#css-effects">CSS Effects Templates (4 ex's)</a></td>
+  </tr>
+  <tr>
+    <td><a href="#css-tab-nav">CSS Tab Navigation Templates (2 ex's)</a></td>
+	<td><a href="#css-js-slideshow">CSS &amp; JS Slideshow Templates (2 ex's)</a></td>
+  </tr>
+  <tr>
+    <td><a href="#js-onclick-with-css">JS onClick with CSS Templates (3 ex's)</a></td>
+	<td><a href="#html-video-audio">HTML Video &amp; Audio Template (1 example)</a></td>
+  </tr>
+  <tr>
+    <td><a href="#css-background">CSS Background Template (1 example)</a></td>
+	<td><a href="#css-gradient">CSS Gradient Template (1 example)</a></td>
+  </tr>
+  <tr>
+    <td><a href="#css-overflow">CSS Overflow Template (1 example)</a></td>
+	<td><a href="#css-animation">CSS Animation Template (1 example)</a></td>
+  </tr>
+</table>
 
-  [[Web Form & Search Bar Templates]{.underline}](#9jhjudypc6m5)    [[Lightbox Modal Element
-                                                                    Templates]{.underline}](#lightbox-modal-element-template)
-
-  [[Tooltip Templates]{.underline}](#kdb634vxe28v)                  [[Progress Bar Templates]{.underline}](#progress-bar-templates)
-
-  [[CSS Accordion Templates]{.underline}](#css-accordian-templates) [[CSS Effects Templates]{.underline}](#qjxam0b6i3lz)
-
-  [[CSS Tab Navigation                                              [[CSS and JavaScript Slideshow
-  Templates]{.underline}](#css-tab-navigation-templates)            Templates]{.underline}](#css-and-javascript-slideshow-templates)
-
-  [[JavaScript onClick With CSS                                     [[HTML Video & Audio Template]{.underline}](#mbneroay4a95)
-  Templates]{.underline}](#javascript-onclick-with-css-templates)   
-
-  [[CSS Background Template]{.underline}](#kf5yg3bekuan)            [[CSS Gradient Templates]{.underline}](#glidakkzttia)
-
-  [[CSS Overflow Templates]{.underline}](#s2ijn6yz6ci5)             [[CSS Animation Template]{.underline}](#5raj5iklwqr1)
-  ----------------------------------------------------------------- ------------------------------------------------------------------
-
-# Example #1
-
-![](./myImages/media/image2.png){width="6.5in"
-height="0.4479166666666667in"}
+<h2 id="nav-menu-breadcrumbs">Example #1 of 4</h2>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. example #1 navigation menu templates ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image002.png" 
+  title="Example 1 of 4; Navigation Menus &amp; Breadcrumbs Templates"
+  alt="Example 1 of 4; Navigation Menus &amp; Breadcrumbs Templates."
+  style="width:50%;" />
+</p>
 
 ## The HTML
 
@@ -636,7 +643,7 @@ bottom: 0;
 
 # Template #1
 
-![](./myImages/media/image12.png){width="6.5in"
+![](./images/image012.png){width="6.5in"
 height="1.7916666666666667in"}
 
 ## The HTML
