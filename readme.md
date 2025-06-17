@@ -35,7 +35,7 @@ a more optimized site, you're encouraged to do so.</p>
   </tr>
   <tr>
     <td><a href="#web-form-search-bar">Web Form &amp; Search Bar Templates (3 ex's)</a></td>
-	<td><a href="#lightbox-modal-element">LightBox Modal Element Templates (1 example)</a></td>
+	<td><a href="#lightbox-modal-element">LightBox Modal Element Template (1 example)</a></td>
   </tr>
   <tr>
     <td><a href="#tooltip">Tooltip Templates (4 ex's)</a></td>
@@ -1082,9 +1082,9 @@ cursor: pointer;
 
 }
 
-# 1 Lightbox Modal Element Template
+<h2 id="lightbox-modal-element">Lightbox Modal Element Template (1 example)</h2>
 
-# Template
+<h3>Template</h3>
 
 ![](./myImages/media/image15.png){width="5.598958880139983in"
 height="0.7088429571303587in"}
@@ -1095,7 +1095,7 @@ height="3.2331813210848646in"}
 ![](./myImages/media/image17.png){width="5.692708880139983in"
 height="3.270278871391076in"}
 
-## The HTML
+<h3>The HTML</h3>
 
 \<div class=\"images\"\>
 
@@ -1153,7 +1153,7 @@ Close
 
 \</div\>
 
-## The CSS
+<h3>The CSS</h3>
 
 \* {
 
