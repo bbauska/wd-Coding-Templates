@@ -1,3 +1,4 @@
+<!-- readme.md -->
 <h1 id="Coding-Templates">35 Coding Templates for HTML, CSS, and JavaScript</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. logo for webdev coding templates ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -33,7 +34,7 @@ a more optimized site, you're encouraged to do so.</p>
 	<td><a href="#button-transition">Button Transition Templates (3 ex's)</a></td>
   </tr>
   <tr>
-    <td><a href="#web-form-search-bar">9jhjudypc6m5">Web Form &amp; Search Bar Templates (3 ex's)</a></td>
+    <td><a href="#web-form-search-bar">Web Form &amp; Search Bar Templates (3 ex's)</a></td>
 	<td><a href="#lightbox-modal-element">LightBox Modal Element Templates (1 example)</a></td>
   </tr>
   <tr>
