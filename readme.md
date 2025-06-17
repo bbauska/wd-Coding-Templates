@@ -3,7 +3,7 @@
 <img src="./images/image001.png" 
   title=""
   alt="."
-  style="width:3.5in height: 3.5in;" />
+  style="width:10%; />
 </p>
 
 +-----------------------------------------------------------------------+
