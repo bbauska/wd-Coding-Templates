@@ -1,5 +1,10 @@
-![](./images/image001.png){width="3.5in"
-height="3.5833333333333335in"}
+<!--~~~~~~~~~~~~~~~~~ 01. logo ~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image001.png" 
+  title=""
+  alt="."
+  style="width:3.5in height: 3.5in;" />
+</p>
 
 +-----------------------------------------------------------------------+
 | # 35 Coding Templates for HTML, CSS,                                  |
@@ -7,32 +12,35 @@ height="3.5833333333333335in"}
 | # and JavaScript                                                      |
 +-----------------------------------------------------------------------+
 
-![](./myImages/media/image1.png){width="3.5in"
-height="3.5833333333333335in"}![](./myImages/media/image1.png){width="3.5in"
-height="3.5833333333333335in"}
+<p>You can edit your own version in one of two ways:</p>
+<ol type="1">
+  <li>Edit this version to fit your needs</li>
+  <li>Go to "File" \&gt; "Download As" \&gt; "Microsoft Word" to Download</li>
+</ol>
 
-You can edit your own version in one of two ways:
+<h3>How to Use This Template</h3>
 
-1.  Edit this version to fit your needs
-
-2.  Go to "File" \> "Download As" \> "Microsoft Word" to Download
-
-How to Use This Template
-
-Copy and paste these code templates into your CMS for the desired
-product on your website.
-
+<p>Copy and paste these code templates into your CMS for the desired
+product on your website.</p>
+<blockquote>
 Remember that you can adjust these to suit your needs. These templates
 are designed to be completely customizable.
+</blockquote>
 
-As such, if you need to make any adjustments to these code snippets for
-a more optimized site, you're encouraged to do so.
+<p>As such, if you need to make any adjustments to these code snippets for
+a more optimized site, you're encouraged to do so.</p>
 
-Jump to a Template
-
-  ----------------------------------------------------------------- ------------------------------------------------------------------
-  [[Navigation Menus & Breadcrumbs                                  [[Button Transition
-  Templates]{.underline}](#example-1)                               Templates]{.underline}](#button-transition-templates)
+<p>Jump to a Template</p>
+<table>
+  <tr>
+    <td><a href="#nav-menu-breadcrumbs-templates">Navigation Menus &amp; Breadcrumbs Templates</a></td>
+	<td><a href="#button-transition-templates">Button Transition Templates</a></td>
+  </tr>
+  <tr>
+    <td><a href="#9jhjudypc6m5">Web Form &amp; Search Bar Templates</a></td>
+	<td><a href="#lightbox-modal-element-template">LightBox Modal Element Templates</a></td>
+  </tr>
+derline}](#example-1) Templates]{.underline}]()
 
   [[Web Form & Search Bar Templates]{.underline}](#9jhjudypc6m5)    [[Lightbox Modal Element
                                                                     Templates]{.underline}](#lightbox-modal-element-template)
