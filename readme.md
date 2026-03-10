@@ -1,19 +1,19 @@
 <!-- readme.md -->
 <h1 id="Coding-Templates">35 Coding Templates for HTML, CSS, and JavaScript</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. logo for webdev coding templates ~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 01. logo for wd coding templates ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <p align="center">
 <img src="./images/image001.png" 
-  title="Logo for WebDev Coding Templates"
-  alt="Logo for WebDev Coding Templates."
+  title="Logo for WD Coding Templates"
+  alt="Logo for WD Coding Templates."
   style="width:25%;" />
 </p>
 
 <p>You can edit your own version in one of two ways:</p>
 <ol type="1">
   <li>Edit this version to fit your needs</li>
-  <li>Go to "File" \&gt; "Download As" \&gt; "Microsoft Word" to Download</li>
+  <li>Go to "File" &gt; "Download As" &gt; "Microsoft Word" to Download</li>
 </ol>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>How to Use This Template</h3>
@@ -291,15 +291,15 @@ you're encouraged to do so.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;div class=&quot;container&quot;&gt;
-&lt;ul class=&quot;breadcrumb&quot;&gt;
-&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;active&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Products&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Computers&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;span&gt;&gt;&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;unique&quot;&gt;Laptops&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;ul class=&quot;breadcrumb&quot;&gt;
+    &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;active&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span&gt;&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Products&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span&gt;&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Computers&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span&gt;&gt;&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;unique&quot;&gt;Laptops&lt;/a&gt;&lt;/li&gt;
+  &lt;/ul&gt;
 &lt;/div&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -339,6 +339,15 @@ you're encouraged to do so.</p>
 <h2>Example #1 of 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./myImages/media/image6.png){width="6.5in" height="1.5138888888888888in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 06.  ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image006.png" 
+  title=""
+  alt="."
+  style="width:75%;" />
+</p>
 
 <h3>The HTML</h3>
 <pre>
@@ -347,41 +356,37 @@ you're encouraged to do so.</p>
 <h3>The CSS</h3>
 <pre>
 .first {
-
-padding: 10px;
-
-font-size: 20px;
-
-background-color: black;
-
-color: white;
-
-border: none;
-
-cursor: pointer;
-
-box-shadow: 0 0 0 #ccc;
-
-transition: box-shadow 300ms, color 300ms;
-
+  padding: 10px;
+  font-size: 20px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  box-shadow: 0 0 0 #ccc;
+  transition: box-shadow 300ms, color 300ms;
 }
 
 .first:hover {
-
-color: yellow;
-
-box-shadow: 10px 10px 0 rgb(219, 219, 219);
-
+  color: yellow;
+  box-shadow: 10px 10px 0 rgb(219, 219, 219);
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Example #2 of 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./myImages/media/image7.png){width="2.557292213473316in"
-height="1.1195516185476815in"}![](./myImages/media/image8.png){width="4.078125546806649in"
-height="1.9507917760279965in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~ 07.  ~~~~~~~~~~~~~~~~~~~~~~~~-->
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<p align="center">
+<img src="./images/image007.png" 
+  title=""
+  alt="."
+  style="width:35%;" />
+<img src="./images/image008.png" 
+  title=""
+  alt="."
+  style="width:35%;" />
+</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -393,54 +398,48 @@ height="1.9507917760279965in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 .second {
-
-width: 180px;
-
-height: 60px;
-
-display: flex;
-
-align-items: center;
-
-justify-content: center;
-
-font-size: 20px;
-
-background-color: rgb(85, 16, 16);
-
-color: white;
-
-border: none;
-
-cursor: pointer;
-
-transition: transform 150ms,
-
-font-size 150ms, color 150ms;
-
+  width: 180px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  background-color: rgb(85, 16, 16);
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: transform 150ms,
+  font-size 150ms, color 150ms;
 }
 
 .second:active {
-
-background-color: rgb(63, 5, 5);
-
-font-size: 12px;
-
-transform: scale(1.3);
-
-box-shadow: 5px 5px 10px rgb(119, 119, 119);
-
+  background-color: rgb(63, 5, 5);
+  font-size: 12px;
+  transform: scale(1.3);
+  box-shadow: 5px 5px 10px rgb(119, 119, 119);
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Example #3 of 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<img src="./images/image009.png" 
+  title=""
+  alt="."
+  style="width:25%;" />
+<img src="./images/image010.png" 
+  title=""
+  alt="."
+  style="width:25%;" />
+<img src="./images/image011.png" 
+  title=""
+  alt="."
+  style="width:25%;" />
+<!--
 ![](./myImages/media/image009.png){width="2.0833333333333335in"
 height="0.53125in"}![](./myImages/media/image010.png){width="2.2604166666666665in"
 height="0.7291666666666666in"}![](./myImages/media/image011.png){width="1.8854166666666667in"
 height="0.6354166666666666in"}
-
+-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -452,375 +451,213 @@ height="0.6354166666666666in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 .third {
-
-border: none;
-
-background: none;
-
-width: 120px;
-
-height: 40px;
-
-cursor: pointer;
-
-position: relative;
-
-color: black;
-
-transition: color 500ms;
-
-overflow: hidden;
-
+  border: none;
+  background: none;
+  width: 120px;
+  height: 40px;
+  cursor: pointer;
+  position: relative;
+  color: black;
+  transition: color 500ms;
+  overflow: hidden;
 }
 
 .third::after {
-
-content: &quot;&quot;;
-
-background-color: #333;
-
-color: white;
-
-position: absolute;
-
-left: 0;
-
-bottom: -40px;
-
-width: 100%;
-
-height: 100%;
-
-transition: bottom 500ms;
-
-z-index: -1;
-
+  content: &quot;&quot;;
+  background-color: #333;
+  color: white;
+  position: absolute;
+  left: 0;
+  bottom: -40px;
+  width: 100%;
+  height: 100%;
+  transition: bottom 500ms;
+  z-index: -1;
 }
 
 .third:hover {
-
-color: white;
-
+  color: white;
 }
 
 .third:hover::after {
-
-bottom: 0;
-
+  bottom: 0;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>3 Web Form & Search Bar Templates</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-[]{#9jhjudypc6m5 .anchor}
-
+<!-- []{#9jhjudypc6m5} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Template #1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-![](./images/image012.png){width="6.5in"
-height="1.7916666666666667in"}
-
+<img src="./images/image012.png" 
+  title=""
+  alt="."
+  style="width:75%;" />
+<!-- ![](./images/image012.png){width="6.5in" height="1.7916666666666667in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;form&gt;
-
-&lt;div class=&quot;search&quot;&gt;
-
-&lt;input type=&quot;text&quot; placeholder=&quot;Search products&quot; /&gt;
-
-&lt;button type=&quot;submit&quot;&gt;Search&lt;/button&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;align-center bottom&quot;&gt;
-
-&lt;div class=&quot;checkbox-block&quot;&gt;
-
-&lt;input
-
-type=&quot;checkbox&quot;
-
-name=&quot;companies_included&quot;
-
-id=&quot;companies_included&quot;
-
-/&gt;
-
-&lt;label for=&quot;companies_included&quot;
-
-&gt;Also search companies
-
-&lt;/label&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;inline-flex radio-block&quot;&gt;
-
-&lt;span&gt;Location&lt;/span&gt;
-
-&lt;div class=&quot;inline-flex align-center&quot;&gt;
-
-&lt;input
-
-type=&quot;radio&quot;
-
-name=&quot;location&quot;
-
-value=&quot;Your location&quot;
-
-id=&quot;your_location&quot;
-
-/&gt;
-
-&lt;label for=&quot;your_location&quot;&gt; Your location &lt;/label&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;inline-flex align-center&quot;&gt;
-
-&lt;input
-
-type=&quot;radio&quot;
-
-name=&quot;location&quot;
-
-value=&quot;Worldwide&quot;
-
-id=&quot;worldwide&quot;
-
-/&gt;
-
-&lt;label for=&quot;worldwide&quot;&gt; Worldwide &lt;/label&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
+  &lt;div class=&quot;search&quot;&gt;
+    &lt;input type=&quot;text&quot; placeholder=&quot;Search products&quot; /&gt;
+    &lt;button type=&quot;submit&quot;&gt;Search&lt;/button&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;align-center bottom&quot;&gt;
+    &lt;div class=&quot;checkbox-block&quot;&gt;
+      &lt;input
+        type=&quot;checkbox&quot;
+        name=&quot;companies_included&quot;
+        id=&quot;companies_included&quot;
+      /&gt;
+      &lt;label for=&quot;companies_included&quot;
+        &gt;Also search companies
+      &lt;/label&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;inline-flex radio-block&quot;&gt;
+      &lt;span&gt;Location&lt;/span&gt;
+      &lt;div class=&quot;inline-flex align-center&quot;&gt;
+        &lt;input
+          type=&quot;radio&quot;
+          name=&quot;location&quot;
+          value=&quot;Your location&quot;
+          id=&quot;your_location&quot;
+        /&gt;
+        &lt;label for=&quot;your_location&quot;&gt; Your location &lt;/label&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;inline-flex align-center&quot;&gt;
+        &lt;input
+          type=&quot;radio&quot;
+          name=&quot;location&quot;
+          value=&quot;Worldwide&quot;
+          id=&quot;worldwide&quot;
+        /&gt;
+        &lt;label for=&quot;worldwide&quot;&gt; Worldwide &lt;/label&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
 &lt;/form&gt;
-</pre>
+/pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 .align-center {
-
-display: flex;
-
-align-items: center;
-
+  display: flex;
+  align-items: center;
 }
-
 .inline-flex {
-
-display: inline-flex;
-
+  display: inline-flex;
 }
-
 form {
-
-padding: 20px 0;
-
-max-width: 500px;
-
-border-bottom: 1px solid #ccc;
-
+  padding: 20px 0;
+  max-width: 500px;
+  border-bottom: 1px solid #ccc;
 }
-
 .search {
-
-display: flex;
-
-outline: 1px solid #cccccc;
-
+  display: flex;
+  outline: 1px solid #cccccc;
 }
-
 .search &gt; input {
-
-flex-grow: 1;
-
-border: 0;
-
-padding: 0.5rem 1rem;
-
-font-size: 1rem;
-
+  flex-grow: 1;
+  border: 0;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
 }
-
 .search &gt; input:focus {
-
-outline: none;
-
+  outline: none;
 }
-
 .search &gt; button {
-
-padding: 0.8rem 2rem;
-
-border: 0;
-
-cursor: pointer;
-
-font-size: 1rem;
-
-background: #cccccc;
-
+  padding: 0.8rem 2rem;
+  border: 0;
+  cursor: pointer;
+  font-size: 1rem;
+  background: #cccccc;
 }
-
 .bottom {
-
-margin-top: 10px;
-
-font-size: 14px;
-
+  margin-top: 10px;
+  font-size: 14px;
 }
-
 .checkbox-block {
-
-display: flex;
-
-align-items: center;
-
-margin-right: 30px;
-
+  display: flex;
+  align-items: center;
+  margin-right: 30px;
 }
-
 .checkbox-block input {
-
-margin-right: 5px;
-
-cursor: pointer;
-
+  margin-right: 5px;
+  cursor: pointer;
 }
-
 .radio-block input {
-
-margin: 0 3px 0 10px;
-
+  margin: 0 3px 0 10px;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Template #2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image013.png" 
+  title=""
+  alt="."
+  style="width:75%;" />
 
-![](./myImages/media/image13.png){width="6.5in"
-height="4.513888888888889in"}
-
+<!-- ![](./myImages/media/image13.png){width="6.5in" height="4.513888888888889in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;form&gt;
-
-&lt;div class=&quot;input-group&quot;&gt;
-
-&lt;label for=&quot;fname&quot;&gt;Firstname&lt;/label&gt;
-
-&lt;input
-
-id=&quot;fname&quot;
-
-name=&quot;fname&quot;
-
-placeholder=&quot;Enter firstname&quot;
-
-required=&quot;required&quot;
-
-/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;input-group&quot;&gt;
-
-&lt;label for=&quot;lname&quot;&gt;Lastname&lt;/label&gt;
-
-&lt;input
-
-id=&quot;lname&quot;
-
-name=&quot;lname&quot;
-
-placeholder=&quot;Enter lastname&quot;
-
-required=&quot;required&quot;
-
-/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;input-group&quot;&gt;
-
-&lt;label for=&quot;email&quot;&gt;Email&lt;/label&gt;
-
-&lt;input
-
-id=&quot;email&quot;
-
-type=&quot;email&quot;
-
-name=&quot;email&quot;
-
-placeholder=&quot;Enter your email&quot;
-
-/&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;input-group&quot;&gt;
-
-&lt;label&gt;Country&lt;/label&gt;
-
-&lt;select name=&quot;country&quot; id=&quot;country&quot; required=&quot;required&quot;&gt;
-
-&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Select country&lt;/option&gt;
-
-&lt;option value=&quot;Afghanistan&quot;&gt;Afghanistan&lt;/option&gt;
-
-&lt;option value=&quot;Albania&quot;&gt;Albania&lt;/option&gt;
-
-&lt;option value=&quot;Algeria&quot;&gt;Algeria&lt;/option&gt;
-
-&lt;option value=&quot;American Samoa&quot;&gt;American Samoa&lt;/option&gt;
-
-&lt;option value=&quot;Andorra&quot;&gt;Andorra&lt;/option&gt;
-
-&lt;option value=&quot;Angola&quot;&gt;Angola&lt;/option&gt;
-
-&lt;option value=&quot;Anguilla&quot;&gt;Anguilla&lt;/option&gt;
-
-&lt;option value=&quot;Antarctica&quot;&gt;Antarctica&lt;/option&gt;
-
-&lt;/select&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;input-group&quot;&gt;
-
-&lt;label for=&quot;message&quot;&gt;Any message?&lt;/label&gt;
-
-&lt;textarea
-
-id=&quot;message&quot;
-
-name=&quot;message&quot;
-
-placeholder=&quot;Optional&quot;
-
-&gt;&lt;/textarea&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;submit-group&quot;&gt;
-
-&lt;button type=&quot;submit&quot;&gt;Submit form&lt;/button&gt;
-
-&lt;/div&gt;
-
+  &lt;div class=&quot;input-group&quot;&gt;
+    &lt;label for=&quot;fname&quot;&gt;Firstname&lt;/label&gt;
+    &lt;input
+      id=&quot;fname&quot;
+      name=&quot;fname&quot;
+      placeholder=&quot;Enter firstname&quot;
+      required=&quot;required&quot;
+    /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;input-group&quot;&gt;
+    &lt;label for=&quot;lname&quot;&gt;Lastname&lt;/label&gt;
+    &lt;input
+      id=&quot;lname&quot;
+      name=&quot;lname&quot;
+      placeholder=&quot;Enter lastname&quot;
+      required=&quot;required&quot;
+    /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;input-group&quot;&gt;
+    &lt;label for=&quot;email&quot;&gt;Email&lt;/label&gt;
+    &lt;input
+      id=&quot;email&quot;
+      type=&quot;email&quot;
+      name=&quot;email&quot;
+      placeholder=&quot;Enter your email&quot;
+    /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;input-group&quot;&gt;
+    &lt;label&gt;Country&lt;/label&gt;
+    &lt;select name=&quot;country&quot; id=&quot;country&quot; required=&quot;required&quot;&gt;
+      &lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Select country&lt;/option&gt;
+      &lt;option value=&quot;Afghanistan&quot;&gt;Afghanistan&lt;/option&gt;
+      &lt;option value=&quot;Albania&quot;&gt;Albania&lt;/option&gt;
+      &lt;option value=&quot;Algeria&quot;&gt;Algeria&lt;/option&gt;
+      &lt;option value=&quot;American Samoa&quot;&gt;American Samoa&lt;/option&gt;
+      &lt;option value=&quot;Andorra&quot;&gt;Andorra&lt;/option&gt;
+      &lt;option value=&quot;Angola&quot;&gt;Angola&lt;/option&gt;
+      &lt;option value=&quot;Anguilla&quot;&gt;Anguilla&lt;/option&gt;
+      &lt;option value=&quot;Antarctica&quot;&gt;Antarctica&lt;/option&gt;
+    &lt;/select&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;input-group&quot;&gt;
+    &lt;label for=&quot;message&quot;&gt;Any message?&lt;/label&gt;
+    &lt;textarea
+      id=&quot;message&quot;
+      name=&quot;message&quot;
+      placeholder=&quot;Optional&quot;
+    &gt;&lt;/textarea&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;submit-group&quot;&gt;
+    &lt;button type=&quot;submit&quot;&gt;Submit form&lt;/button&gt;
+  &lt;/div&gt;
 &lt;/form&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -828,307 +665,167 @@ placeholder=&quot;Optional&quot;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &ast; {
-
-box-sizing: border-box;
-
+  box-sizing: border-box;
 }
-
 body {
-
-margin: 30px;
-
+  margin: 30px;
 }
-
 form {
-
-border: 1px solid #333;
-
-padding: 20px;
-
-max-width: 400px;
-
-margin: 0 auto;
-
-border-radius: 5px;
-
+  border: 1px solid #333;
+  padding: 20px;
+  max-width: 400px;
+  margin: 0 auto;
+  border-radius: 5px;
 }
-
 .input-group {
-
-display: flex;
-
-margin-bottom: 10px;
-
+  display: flex;
+  margin-bottom: 10px;
 }
-
 label {
-
-width: 100px;
-
+  width: 100px;
 }
-
 input,
-
 select,
-
 textarea {
-
-flex: 1;
-
-padding: 3px 5px;
-
+  flex: 1;
+  padding: 3px 5px;
 }
-
 .submit-group {
-
-display: flex;
-
-align-items: center;
-
-justify-content: center;
-
-margin-top: 20px;
-
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
 }
-
 button {
-
-width: 100px;
-
-margin: 0 auto;
-
-background-color: black;
-
-color: white;
-
-border: none;
-
-padding: 10px;
-
-cursor: pointer;
-
-border-radius: 5px;
-
+  width: 100px;
+  margin: 0 auto;
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  border-radius: 5px;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Template #2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<img src="./images/image014.png" 
+  title=""
+  alt="."
+  style="width:75%;" />
 
-![](./myImages/media/image14.png){width="3.7226859142607176in"
-height="5.776042213473316in"}
-
+<!-- ![](./myImages/media/image14.png){width="3.7226859142607176in" height="5.776042213473316in"} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;form&gt;
-
-&lt;div&gt;
-
-&lt;span class=&quot;question&quot;&gt;1. How did you hear about us?&lt;/span&gt;
-
-&lt;div class=&quot;radio-group&quot;&gt;
-
-&lt;div class=&quot;radio-item&quot;&gt;
-
-&lt;input type=&quot;radio&quot; name=&quot;hear_about_us&quot; id=&quot;twitter&quot; /&gt;
-
-&lt;label for=&quot;twitter&quot;&gt;Twitter&lt;/label&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;radio-item&quot;&gt;
-
-&lt;input type=&quot;radio&quot; name=&quot;hear_about_us&quot; id=&quot;facebook&quot; /&gt;
-
-&lt;label for=&quot;facebook&quot;&gt;Facebook&lt;/label&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;radio-item&quot;&gt;
-
-&lt;input type=&quot;radio&quot; name=&quot;hear_about_us&quot; id=&quot;other&quot; /&gt;
-
-&lt;label for=&quot;other&quot;&gt;Other&lt;/label&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;span class=&quot;question&quot;&gt;2. Where do you live?&lt;/span&gt;
-
-&lt;select name=&quot;country&quot; id=&quot;country&quot; required=&quot;required&quot;&gt;
-
-&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Select country&lt;/option&gt;
-
-&lt;option value=&quot;Afghanistan&quot;&gt;Afghanistan&lt;/option&gt;
-
-&lt;option value=&quot;Albania&quot;&gt;Albania&lt;/option&gt;
-
-&lt;option value=&quot;Algeria&quot;&gt;Algeria&lt;/option&gt;
-
-&lt;option value=&quot;American Samoa&quot;&gt;American Samoa&lt;/option&gt;
-
-&lt;option value=&quot;Andorra&quot;&gt;Andorra&lt;/option&gt;
-
-&lt;option value=&quot;Angola&quot;&gt;Angola&lt;/option&gt;
-
-&lt;option value=&quot;Anguilla&quot;&gt;Anguilla&lt;/option&gt;
-
-&lt;option value=&quot;Antarctica&quot;&gt;Antarctica&lt;/option&gt;
-
-&lt;/select&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;span class=&quot;question&quot;&gt;3. You age range&lt;/span&gt;
-
-&lt;div class=&quot;radio-group&quot;&gt;
-
-&lt;div class=&quot;radio-item&quot;&gt;
-
-&lt;input type=&quot;radio&quot; name=&quot;age_range&quot; id=&quot;lower&quot; /&gt;
-
-&lt;label for=&quot;lower&quot;&gt;18-25&lt;/label&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;radio-item&quot;&gt;
-
-&lt;input type=&quot;radio&quot; name=&quot;age_range&quot; id=&quot;middle&quot; /&gt;
-
-&lt;label for=&quot;middle&quot;&gt;26-35&lt;/label&gt;
-
-&lt;/div&gt;
-
-&lt;div class=&quot;radio-item&quot;&gt;
-
-&lt;input type=&quot;radio&quot; name=&quot;age_range&quot; id=&quot;higher&quot; /&gt;
-
-&lt;label for=&quot;higher&quot;&gt;36 or more&lt;/label&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;span class=&quot;question&quot;&gt;4. Anything else we should know? &lt;/span&gt;
-
-&lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
-
-&lt;/div&gt;
-
-&lt;div&gt;
-
-&lt;button class=&quot;submit-btn&quot;&gt;Submit survey&lt;/button&gt;
-
-&lt;/div&gt;
-
+  &lt;div&gt;
+    &lt;span class=&quot;question&quot;&gt;1. How did you hear about us?&lt;/span&gt;
+    &lt;div class=&quot;radio-group&quot;&gt;
+      &lt;div class=&quot;radio-item&quot;&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;hear_about_us&quot; id=&quot;twitter&quot; /&gt;
+        &lt;label for=&quot;twitter&quot;&gt;Twitter&lt;/label&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;radio-item&quot;&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;hear_about_us&quot; id=&quot;facebook&quot; /&gt;
+        &lt;label for=&quot;facebook&quot;&gt;Facebook&lt;/label&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;radio-item&quot;&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;hear_about_us&quot; id=&quot;other&quot; /&gt;
+        &lt;label for=&quot;other&quot;&gt;Other&lt;/label&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;span class=&quot;question&quot;&gt;2. Where do you live?&lt;/span&gt;
+    &lt;select name=&quot;country&quot; id=&quot;country&quot; required=&quot;required&quot;&gt;
+      &lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Select country&lt;/option&gt;
+      &lt;option value=&quot;Afghanistan&quot;&gt;Afghanistan&lt;/option&gt;
+      &lt;option value=&quot;Albania&quot;&gt;Albania&lt;/option&gt;
+      &lt;option value=&quot;Algeria&quot;&gt;Algeria&lt;/option&gt;
+      &lt;option value=&quot;American Samoa&quot;&gt;American Samoa&lt;/option&gt;
+      &lt;option value=&quot;Andorra&quot;&gt;Andorra&lt;/option&gt;
+      &lt;option value=&quot;Angola&quot;&gt;Angola&lt;/option&gt;
+      &lt;option value=&quot;Anguilla&quot;&gt;Anguilla&lt;/option&gt;
+      &lt;option value=&quot;Antarctica&quot;&gt;Antarctica&lt;/option&gt;
+    &lt;/select&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;span class=&quot;question&quot;&gt;3. You age range&lt;/span&gt;
+    &lt;div class=&quot;radio-group&quot;&gt;
+      &lt;div class=&quot;radio-item&quot;&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;age_range&quot; id=&quot;lower&quot; /&gt;
+        &lt;label for=&quot;lower&quot;&gt;18-25&lt;/label&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;radio-item&quot;&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;age_range&quot; id=&quot;middle&quot; /&gt;
+        &lt;label for=&quot;middle&quot;&gt;26-35&lt;/label&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;radio-item&quot;&gt;
+        &lt;input type=&quot;radio&quot; name=&quot;age_range&quot; id=&quot;higher&quot; /&gt;
+        &lt;label for=&quot;higher&quot;&gt;36 or more&lt;/label&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;span class=&quot;question&quot;&gt;4. Anything else we should know? &lt;/span&gt;
+    &lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
+  &lt;/div&gt;
+  &lt;div&gt;
+    &lt;button class=&quot;submit-btn&quot;&gt;Submit survey&lt;/button&gt;
+  &lt;/div&gt;
 &lt;/form&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &ast; {
-
 box-sizing: border-box;
-
 }
-
 body {
-
 margin: 30px;
-
 }
-
 form {
-
 max-width: 400px;
-
 }
-
 form &gt; div {
-
 margin-bottom: 20px;
-
 }
-
 .question {
-
 font-weight: bold;
-
 display: block;
-
 margin-bottom: 5px;
-
 }
-
 .radio-group,
-
 select,
-
 textarea {
-
 margin-left: 15px;
-
 width: 200px;
-
 }
-
 textarea {
-
 padding: 10px;
-
 }
-
 .radio-item {
-
 display: flex;
-
 align-items: center;
-
 margin-bottom: 3px;
-
 }
-
 .radio-item label {
-
 margin-left: 5px;
-
 }
-
 .radio-item input {
-
 margin: 0;
-
 }
-
 .submit-btn {
-
 margin-left: 15px;
-
 background-color: #555;
-
 border: 1px solid #555;
-
 color: white;
-
 padding: 10px;
-
 cursor: pointer;
-
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1136,7 +833,19 @@ cursor: pointer;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Template</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<img src="./images/image015.png" 
+  title=""
+  alt="."
+  style="width:75%;" />
+<img src="./images/image016.png" 
+  title=""
+  alt="."
+  style="width:75%;" />
+<img src="./images/image017.png" 
+  title=""
+  alt="."
+  style="width:75%;" />
+<!--
 ![](./myImages/media/image15.png){width="5.598958880139983in"
 height="0.7088429571303587in"}
 
@@ -1145,70 +854,44 @@ height="3.2331813210848646in"}
 
 ![](./myImages/media/image17.png){width="5.692708880139983in"
 height="3.270278871391076in"}
-
+-->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &lt;div class=&quot;images&quot;&gt;
-
 &lt;img onclick=&quot;openModal(0)&quot; id=&quot;image0&quot; /&gt;
-
 &lt;img onclick=&quot;openModal(1)&quot; id=&quot;image1&quot; /&gt;
-
 &lt;img onclick=&quot;openModal(2)&quot; id=&quot;image2&quot; /&gt;
-
 &lt;img onclick=&quot;openModal(3)&quot; id=&quot;image3&quot; /&gt;
-
 &lt;/div&gt;
-
 &lt;div id=&quot;lightbox&quot; class=&quot;lightbox&quot;&gt;
-
 &lt;button onclick=&quot;closeModal()&quot; class=&quot;close-btn&quot;&gt;
-
 Close
-
 &lt;/button&gt;
-
 &lt;div class=&quot;image-preview&quot;&gt;
-
 &lt;img id=&quot;preview-image&quot; /&gt;
-
 &lt;/div&gt;
-
 &lt;div class=&quot;control-btns&quot;&gt;
-
 &lt;button onclick=&quot;control(-1)&quot; class=&quot;control-left&quot;&gt;
-
 &lt;
-
 &lt;/button&gt;
-
 &lt;button onclick=&quot;control(1)&quot; class=&quot;control-left&quot;&gt;
-
 &gt;
-
 &lt;/button&gt;
-
 &lt;/div&gt;
-
 &lt;div id=&quot;modal-images-block&quot; class=&quot;lightbox\_\_images&quot;&gt;
-
 &lt;img onclick=&quot;openModal(0)&quot; id=&quot;l-image0&quot; /&gt;
-
 &lt;img onclick=&quot;openModal(1)&quot; id=&quot;l-image1&quot; /&gt;
-
 &lt;img onclick=&quot;openModal(2)&quot; id=&quot;l-image2&quot; /&gt;
-
 &lt;img onclick=&quot;openModal(3)&quot; id=&quot;l-image3&quot; /&gt;
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
+</pre>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 &ast; {
 
 box-sizing: border-box;
@@ -1363,338 +1046,190 @@ opacity: 1;
 <h3>The JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 const IMAGE0 =
-
-&quot;https://i.picsum.photos/id/229/400/200.jpg?hmac=ULnwo8IFtjR3PshWPNEvFWNU8Xwl_OIeUtVmZIQanhU&quot;
-
+  &quot;https://i.picsum.photos/id/229/400/200.jpg?hmac=ULnwo8IFtjR3PshWPNEvFWNU8Xwl_OIeUtVmZIQanhU&quot;
 const IMAGE1 =
-
-&quot;https://i.picsum.photos/id/154/400/200.jpg?hmac=uhKcJIPoFcq2xMC16yvZAwA8sTeIbThUr-Njq0DkhSU&quot;
-
+  &quot;https://i.picsum.photos/id/154/400/200.jpg?hmac=uhKcJIPoFcq2xMC16yvZAwA8sTeIbThUr-Njq0DkhSU&quot;
 const IMAGE2 =
-
-&quot;https://i.picsum.photos/id/690/400/200.jpg?hmac=kOkDXkZEUaSUQviVm67apRu5EPMD_L0rHfKVt32iogQ&quot;
-
+  &quot;https://i.picsum.photos/id/690/400/200.jpg?hmac=kOkDXkZEUaSUQviVm67apRu5EPMD_L0rHfKVt32iogQ&quot;
 const IMAGE3 =
-
-&quot;https://i.picsum.photos/id/633/400/200.jpg?hmac=-axbA3Zg3r_xPYOy7OdaIb5yTFDBKubd9LYJrnwpHeU&quot;
-
+  &quot;https://i.picsum.photos/id/633/400/200.jpg?hmac=-axbA3Zg3r_xPYOy7OdaIb5yTFDBKubd9LYJrnwpHeU&quot;
 const images = \[IMAGE0, IMAGE1, IMAGE2, IMAGE3\]
-
 const image0 = document.getElementById(&quot;image0&quot;)
-
 const image1 = document.getElementById(&quot;image1&quot;)
-
 const image2 = document.getElementById(&quot;image2&quot;)
-
 const image3 = document.getElementById(&quot;image3&quot;)
-
 const lightbox = document.getElementById(&quot;lightbox&quot;)
-
 const previewImg = document.getElementById(&quot;preview-image&quot;)
-
 const modalImagesBlock = document.getElementById(
-
 &quot;modal-images-block&quot;
-
 )
 
 image0.src = IMAGE0
-
 image1.src = IMAGE1
-
 image2.src = IMAGE2
-
 image3.src = IMAGE3
-
 let activeId = null
-
 previewImg.src = images\[0\]
-
 const modalImagesElements =
-
 modalImagesBlock.getElementsByTagName(&quot;img&quot;)
-
 const modalImages = Object.values(modalImagesElements)
-
 modalImages.forEach((imageElement, i) =&gt; {
-
 console.log(imageElement)
-
 imageElement.src = images\[i\]
-
 })
-
 function openModal(imgId) {
-
 if (activeId !== null) {
-
 modalImages\[activeId\].classList.remove(&quot;active&quot;)
-
 }
-
 activeId = imgId
-
 lightbox.classList.add(&quot;visible&quot;)
-
 previewImg.src = images\[imgId\]
-
 modalImages\[imgId\].classList.add(&quot;active&quot;)
-
 }
-
 function closeModal() {
-
 lightbox.classList.remove(&quot;visible&quot;)
-
 }
-
 function control(direction) {
-
 const prevId = activeId
-
 if (direction === 1) {
-
 // next
-
 activeId =
-
 activeId + 1 &gt; images.length - 1
-
 ? // then go to the beginning
-
 (activeId = 0)
-
 : (activeId = activeId + 1)
-
 } else {
-
 // previous
-
 activeId =
-
 activeId - 1 &lt; 0
-
 ? // then go to the end
-
 (activeId = images.length - 1)
-
 : activeId - 1
-
 }
-
 previewImg.src = images\[activeId\]
-
 modalImages\[activeId\].classList.add(&quot;active&quot;)
-
 modalImages\[prevId\].classList.remove(&quot;active&quot;)
-
 }
-
-[]{#kdb634vxe28v .anchor}
 </pre>
+<!-- []{#kdb634vxe28v .anchor} -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Example #1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ![](./myImages/media/image18.png){width="3.5208333333333335in"
 height="1.4479166666666667in"}
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &lt;div class=&quot;tooltip&quot;&gt;
-
-&lt;span&gt;Top&lt;/span&gt;
-
-&lt;div class=&quot;tooltip-text&quot;&gt;This is the top of the tooltip&lt;/div&gt;
-
+  &lt;span&gt;Top&lt;/span&gt;
+  &lt;div class=&quot;tooltip-text&quot;&gt;This is the top of the tooltip&lt;/div&gt;
 &lt;/div&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 body {
-
 margin: 60px;
-
 }
-
 .tooltip {
-
 position: relative;
-
 display: inline-block;
-
 }
-
 .tooltip-text {
-
 padding: 6px;
-
 background-color: #333;
-
 color: white;
-
 font-size: 12px;
-
 position: absolute;
-
 border-radius: 5px;
-
 width: 100px;
-
 text-align: center;
-
 display: inline-block;
-
 top: -45px;
-
 left: -12px;
-
 visibility: hidden;
-
 }
-
 .tooltip-text::after {
-
 content: &quot;&quot;;
-
 position: absolute;
-
 left: 10px;
-
 bottom: -5px;
-
 width: 0;
-
 height: 0;
-
 border-left: 7px solid transparent;
-
 border-right: 7px solid transparent;
-
 border-top: 10px solid #333;
-
 }
-
 .tooltip:hover .tooltip-text {
-
 visibility: visible;
-
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Example #2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ![](./myImages/media/image19.png){width="4.0625in" height="1.03125in"}
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &lt;div class=&quot;tooltip&quot;&gt;
-
-&lt;span&gt;Right&lt;/span&gt;
-
-&lt;div class=&quot;tooltip-text&quot;&gt;This is the right of the tooltip&lt;/div&gt;
-
+  &lt;span&gt;Right&lt;/span&gt;
+  &lt;div class=&quot;tooltip-text&quot;&gt;This is the right of the tooltip&lt;/div&gt;
 &lt;/div&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 .tooltip {
-
 position: relative;
-
 display: inline-block;
-
 }
-
 .tooltip-text {
-
 padding: 6px;
-
 background-color: #333;
-
 color: white;
-
 font-size: 12px;
-
 position: absolute;
-
 border-radius: 5px;
-
 width: 100px;
-
 text-align: center;
-
 right: -120px;
-
 bottom: -7px;
-
 visibility: hidden;
-
 }
-
 .tooltip-text::after {
 
 content: &quot;&quot;;
-
 position: absolute;
-
 left: -5px;
-
 bottom: 10px;
-
 width: 0;
-
 height: 0;
-
 border-top: 7px solid transparent;
-
 border-bottom: 7px solid transparent;
-
 border-right: 10px solid #333;
-
 }
-
 .tooltip:hover .tooltip-text {
-
 visibility: visible;
-
 }
 </pre>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Example #3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ![](./myImages/media/image20.png){width="3.2916666666666665in"
 height="1.4583333333333333in"}
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &lt;div class=&quot;tooltip&quot;&gt;
-
 &lt;span&gt;Bottom&lt;/span&gt;
-
 &lt;div class=&quot;tooltip-text&quot;&gt; This is the bottom of the tooltip
 &lt;/div&gt;
-
 &lt;/div&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1702,159 +1237,86 @@ height="1.4583333333333333in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 .tooltip {
-
 position: relative;
-
 display: inline-block;
-
 }
-
 .tooltip-text {
-
 padding: 6px;
-
 background-color: #333;
-
 color: white;
-
 font-size: 12px;
-
 position: absolute;
-
 border-radius: 5px;
-
 width: 100px;
-
 text-align: center;
-
 display: inline-block;
-
 bottom: -46px;
-
 left: -10px;
-
 visibility: hidden;
-
 }
-
 .tooltip-text::after {
-
 content: &quot;&quot;;
-
 position: absolute;
-
 left: 10px;
-
 top: -5px;
-
 width: 0;
-
 height: 0;
-
 border-left: 7px solid transparent;
-
 border-right: 7px solid transparent;
-
 border-bottom: 10px solid #333;
-
 }
-
 .tooltip:hover .tooltip-text {
-
 visibility: visible;
-
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Example #4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
 ![](./myImages/media/image21.png){width="3.6041666666666665in"
 height="0.9166666666666666in"}
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &lt;div class=&quot;tooltip&quot;&gt;
-
 &lt;span&gt;Left&lt;/span&gt;
-
 &lt;div class=&quot;tooltip-text&quot;&gt;This is the left of the tooltip&lt;/div&gt;
-
 &lt;/div&gt;
-
 The CSS
-
 body {
-
 margin: 60px 130px;
-
 }
-
 .tooltip {
-
 position: relative;
-
 display: inline-block;
-
 }
-
 .tooltip-text {
-
 padding: 6px;
-
 background-color: #333;
-
 color: white;
-
 font-size: 12px;
-
 position: absolute;
-
 border-radius: 5px;
-
 width: 100px;
-
 text-align: center;
-
 left: -120px;
-
 bottom: -11px;
-
 visibility: hidden;
-
 }
-
 .tooltip-text::after {
-
 content: &quot;&quot;;
-
 position: absolute;
-
 right: -5px;
-
 top: 12px;
-
 width: 0;
-
 height: 0;
-
 border-top: 7px solid transparent;
-
 border-bottom: 7px solid transparent;
-
 border-left: 10px solid #333;
-
 }
-
 .tooltip:hover .tooltip-text {
-
 visibility: visible;
-
 }
-
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>2 Progress Bar Templates</h2>
@@ -1868,34 +1330,21 @@ visibility: visible;
 <pre>
 &lt;progress class=&quot;first&quot; value=&quot;50&quot; max=&quot;100&quot;&gt;&lt;/progress&gt;
 </pre>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 .first {
-
 border-radius: 0;
-
 border: 2px solid purple;
-
 height: 30px;
-
 width: 250px;
-
 }
-
 .first::-webkit-progress-bar {
-
 background-color: white;
-
 }
-
 .first::-webkit-progress-value {
-
 background-color: purple;
-
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1904,61 +1353,41 @@ background-color: purple;
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &lt;progress class=&quot;second&quot; value=&quot;40&quot; max=&quot;100&quot;&gt;&lt;/progress&gt;
+</pre>
 
 ![](./myImages/media/image23.png){width="5.083333333333333in"
 height="0.7395833333333334in"}
 
+<pre>
 &lt;progress class=&quot;second&quot; value=&quot;80&quot; max=&quot;100&quot;&gt;&lt;/progress&gt;
+</pre>
 
 ![](./myImages/media/image24.png){width="5.0in" height="0.78125in"}
-</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 .second {
-
 overflow: hidden;
-
 border-radius: 15px;
-
 height: 30px;
-
 width: 200px;
-
 }
-
 .second::-webkit-progress-bar {
-
 border-radius: 15px;
-
 background-color: white;
-
 border: 1px solid #ccc;
-
 }
-
 .second::-webkit-progress-value {
-
 background-image: linear-gradient(
-
 90deg,
-
 hsl(0deg 91% 46%) 25px,
-
 hsl(41deg 100% 50%) 50px,
-
 hsl(63deg 100% 37%) 75px,
-
 rgb(85, 255, 0) 100px
-
 );
-
 border-radius: 15px;
-
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1969,261 +1398,137 @@ border-radius: 15px;
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &lt;!DOCTYPE html&gt;
-
 &lt;html lang=&quot;en&quot;&gt;
-
 &lt;head&gt;
-
 &lt;title&gt;Document&lt;/title&gt;
-
 &lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
-
 &lt;/head&gt;
-
 &lt;body&gt;
 
 &lt;div class=&quot;container&quot;&gt;
-
 &lt;h1&gt;CSS Accordion&lt;/h1&gt;
-
 &lt;div class=&quot;accordion&quot;&gt;
-
 &lt;div class=&quot;tab&quot;&gt;
-
 &lt;input type=&quot;checkbox&quot; id=&quot;tab1&quot; /&gt;
-
 &lt;label class=&quot;tab-label&quot; for=&quot;tab1&quot;&gt;Lorem ipsum 1&lt;/label&gt;
-
 &lt;div class=&quot;tab-content&quot;&gt;
-
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
-
 perferendis eligendi fugit quaerat consequatur fuga pariatur
-
 ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
-
 tempore itaque quas excepturi.
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;div class=&quot;tab&quot;&gt;
-
 &lt;input type=&quot;checkbox&quot; id=&quot;tab2&quot; /&gt;
-
 &lt;label class=&quot;tab-label&quot; for=&quot;tab2&quot;&gt;Lorem ipsum 2&lt;/label&gt;
-
 &lt;div class=&quot;tab-content&quot;&gt;
-
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
-
 perferendis eligendi fugit quaerat consequatur fuga pariatur
-
 ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
-
 tempore itaque quas excepturi.
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;div class=&quot;tab&quot;&gt;
-
 &lt;input type=&quot;checkbox&quot; id=&quot;tab3&quot; /&gt;
-
 &lt;label class=&quot;tab-label&quot; for=&quot;tab3&quot;&gt;Lorem ipsum 3&lt;/label&gt;
-
 &lt;div class=&quot;tab-content&quot;&gt;
-
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
-
 perferendis eligendi fugit quaerat consequatur fuga pariatur
-
 ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
-
 tempore itaque quas excepturi.
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;/body&gt;
-
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &#64;import
 &quot;https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400&quot;;
-
 body {
-
 color: #2c3e50;
-
 background: #ecf0f1;
-
 width: 100vw;
-
 padding: 0 1em 1em;
-
 font-family: &quot;Raleway&quot;, sans-serif;
-
 }
-
 h1 {
-
 margin: 0;
-
 line-height: 2;
-
 text-align: center;
-
 }
-
 input {
-
 position: absolute;
-
 opacity: 0;
-
 z-index: -1;
-
 }
-
 /&ast; Accordion styles &ast;/
-
 .accordion {
-
 border-radius: 8px;
-
 width: 70vw;
-
 margin: 5rem auto 0;
-
 overflow: hidden;
-
 padding: 2rem 2.5rem;
-
 background-color: white;
-
 box-shadow: 0 4px 4px 2px rgba(0, 0, 0, 0.15);
-
 }
-
 .tab {
-
 width: 100%;
-
 color: #1a252f;
-
 overflow: hidden;
-
 margin: 1rem 0;
-
 }
-
 .tab-label {
-
 display: flex;
-
 justify-content: space-between;
-
 padding: 1rem;
-
 background: white;
-
 font-weight: bold;
-
 cursor: pointer;
-
 }
-
 .tab-label:hover {
-
 background: #dce7ea;
-
 }
-
 .tab-label::after {
-
 content: &quot;❯&quot;;
-
 width: 1em;
-
 height: 1em;
-
 text-align: center;
-
 transition: all 0.35s;
-
 }
-
 .tab-content {
-
 max-height: 0;
-
 padding: 0 1em;
-
 line-height: 2rem;
-
 color: #1a252f;
-
 background: white;
-
 transition: all 0.35s;
-
 }
-
 .tab-close {
-
 display: flex;
-
 justify-content: flex-end;
-
 padding: 1em;
-
 font-size: 0.75em;
-
 background: #2c3e50;
-
 cursor: pointer;
-
 }
-
 .tab-close:hover {
-
 background: #dce7ea;
-
 }
-
 input:checked + .tab-label {
-
 background: #dce7ea;
-
 }
-
 input:checked + .tab-label::after {
-
 transform: rotate(90deg);
-
 }
-
 input:checked \~ .tab-content {
-
 max-height: 100vh;
-
 padding: 1rem;
-
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2232,201 +1537,106 @@ padding: 1rem;
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &lt;!DOCTYPE html&gt;
-
 &lt;html lang=&quot;en&quot;&gt;
-
 &lt;head&gt;
-
 &lt;title&gt;Document&lt;/title&gt;
-
 &lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
-
 &lt;/head&gt;
-
 &lt;body&gt;
-
 &lt;div class=&quot;container&quot;&gt;
-
 &lt;h1&gt;CSS Accordion With Javascript&lt;/h1&gt;
-
 &lt;div class=&quot;accordion&quot;&gt;
-
 &lt;div class=&quot;tab&quot;&gt;
-
 &lt;input type=&quot;checkbox&quot; id=&quot;tab1&quot; /&gt;
-
 &lt;label class=&quot;tab-label&quot; for=&quot;tab1&quot;&gt;Lorem ipsum 1&lt;/label&gt;
-
 &lt;div class=&quot;tab-content&quot;&gt;
-
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
-
 perferendis eligendi fugit quaerat consequatur fuga pariatur
-
 ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
-
 tempore itaque quas excepturi.
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;div class=&quot;tab&quot;&gt;
-
 &lt;input type=&quot;checkbox&quot; id=&quot;tab2&quot; /&gt;
-
 &lt;label class=&quot;tab-label&quot; for=&quot;tab2&quot;&gt;Lorem ipsum 2&lt;/label&gt;
-
 &lt;div class=&quot;tab-content&quot;&gt;
-
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
-
 perferendis eligendi fugit quaerat consequatur fuga pariatur
-
 ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
-
 tempore itaque quas excepturi.
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;div class=&quot;tab&quot;&gt;
-
 &lt;input type=&quot;checkbox&quot; id=&quot;tab3&quot; /&gt;
-
 &lt;label class=&quot;tab-label&quot; for=&quot;tab3&quot;&gt;Lorem ipsum 3&lt;/label&gt;
-
 &lt;div class=&quot;tab-content&quot;&gt;
-
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
-
 perferendis eligendi fugit quaerat consequatur fuga pariatur
-
 ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
-
 tempore itaque quas excepturi.
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;/div&gt;
-
 &lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;
-
 &lt;/body&gt;
-
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-
 &#64;import
 &quot;https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400&quot;;
-
 body {
-
 color: #2c3e50;
-
 background: #ecf0f1;
-
 width: 100vw;
-
 padding: 0 1em 1em;
-
 font-family: &quot;Raleway&quot;, sans-serif;
-
 }
-
 h1 {
-
 margin: 0;
-
 line-height: 2;
-
 text-align: center;
-
 color: #ff6873;
-
 }
-
 input {
-
 position: absolute;
-
 opacity: 0;
-
 z-index: -1;
-
 }
-
 /&ast; Accordion styles &ast;/
-
 .accordion {
-
 border-radius: 8px;
-
 width: 70vw;
-
 margin: 5rem auto 0;
-
 overflow: hidden;
-
 padding: 2rem 2.5rem;
-
 background-color: white;
-
 box-shadow: 0 4px 4px 2px rgba(0, 0, 0, 0.15);
-
 }
-
 .tab {
-
 width: 100%;
-
 color: #1a252f;
-
 overflow: hidden;
-
 margin: 1.4rem 0;
-
 }
-
 .tab-label {
-
 display: flex;
-
 justify-content: space-between;
-
 padding: 1rem;
-
 font-size: 1.2rem;
-
 color: #ff6873;
-
 font-weight: bold;
-
 cursor: pointer;
-
 }
-
 .tab-label::after {
-
 content: &quot;❯&quot;;
-
 width: 1em;
-
 height: 1em;
-
 color: #ff6873;
-
 text-align: center;
 
 transition: all 0.35s;
