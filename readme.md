@@ -80,16 +80,16 @@ you're encouraged to do so.</p>
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-\<div class=\"container\"\>
-\<nav\>
-> \<ul class=\"bar\"\>
-> \<li\>\<a href=\"#\"\>Home\</a\>\</li\>
-> \<li\>\<a href=\"#\"\>About\</a\>\</li\>
-> \<li\>\<a href=\"#\" class=\"active\"\>Contact\</a\>\</li\>
-> \<li\>\<a href=\"#\"\>Careers\</a\>\</li\>
-> \</ul\>
-\</nav\>
-\</div\>
+&lt;div class=&quot;container&quot;&gt;
+&lt;nav&gt;
+> &lt;ul class=&quot;bar&quot;&gt;
+> &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+> &lt;li&gt;&lt;a href=&quot;#&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+> &lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;active&quot;&gt;Contact&lt;/a&gt;&lt;/li&gt;
+> &lt;li&gt;&lt;a href=&quot;#&quot;&gt;Careers&lt;/a&gt;&lt;/li&gt;
+> &lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/div&gt;
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
@@ -125,7 +125,6 @@ you're encouraged to do so.</p>
   color: white;
 }
 </pre>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Examples #2 of 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -140,18 +139,18 @@ you're encouraged to do so.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-\<div class=\"container\"\>
-\<nav\>
-\<ul class=\"bar\"\>
-\<li\>\<a href=\"#\"\>Home\</a\>\</li\>
-\<li\>\<a href=\"#\"\>About\</a\>\</li\>
-\<li\>\<a href=\"#\"\>Contact\</a\>\</li\>
-\<li\>\<a href=\"#\" class=\"active\"\>Careers\</a\>\</li\>
-\</ul\>
-\</nav\>
-\</div\>
-
+<pre>
+&lt;div class=&quot;container&quot;&gt;
+&lt;nav&gt;
+&lt;ul class=&quot;bar&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;About&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;active&quot;&gt;Careers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/div&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -187,7 +186,6 @@ you're encouraged to do so.</p>
   color: white;
 }
 </pre>
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Third example of 4</h2>
 <!--  ![](./images/image004.png){width="5.947916666666667in" height="1.09375in"}  -->
@@ -203,30 +201,30 @@ you're encouraged to do so.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-\<div class=\"container\"\>
-\<nav\>
-\<ul class=\"bar\"\>
-\<li\>\<a href=\"#\" class=\"active\"\>Home\</a\>\</li\>
-\<li class=\"has-dropdown\"\>
-\<a href=\"#\"\>About\</a\>
-\<ul class=\"dropdown\"\>
-\<li\>\<a href=\"#\"\>The Company\</a\>\</li\>
-\<li\>\<a href=\"#\"\>The Team\</a\>\</li\>
-\</ul\>
-\</li\>
-\<li class=\"has-dropdown\"\>
-\<a href=\"#\"\>Contact\</a\>
-\<ul class=\"dropdown\"\>
-\<li\>\<a href=\"#\"\>Email\</a\>\</li\>
-\<li\>\<a href=\"#\"\>Phone\</a\>\</li\>
-\</ul\>
-\</li\>
-\<li\>\<a href=\"#\"\>Careers\</a\>\</li\>
-\</ul\>
-\</nav\>
-\</div\>
-
+<pre>
+&lt;div class=&quot;container&quot;&gt;
+&lt;nav&gt;
+&lt;ul class=&quot;bar&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;active&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+&lt;li class=&quot;has-dropdown&quot;&gt;
+&lt;a href=&quot;#&quot;&gt;About&lt;/a&gt;
+&lt;ul class=&quot;dropdown&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;The Company&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;The Team&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li class=&quot;has-dropdown&quot;&gt;
+&lt;a href=&quot;#&quot;&gt;Contact&lt;/a&gt;
+&lt;ul class=&quot;dropdown&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Email&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Phone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Careers&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/nav&gt;
+&lt;/div&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -291,19 +289,19 @@ you're encouraged to do so.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-\<div class=\"container\"\>
-\<ul class=\"breadcrumb\"\>
-\<li\>\<a href=\"#\" class=\"active\"\>Home\</a\>\</li\>
-\<li\>\<span\>\>\</span\>\</li\>
-\<li\>\<a href=\"#\"\>Products\</a\>\</li\>
-\<li\>\<span\>\>\</span\>\</li\>
-\<li\>\<a href=\"#\"\>Computers\</a\>\</li\>
-\<li\>\<span\>\>\</span\>\</li\>
-\<li\>\<a href=\"#\" class=\"unique\"\>Laptops\</a\>\</li\>
-\</ul\>
-\</div\>
-
+<pre>
+&lt;div class=&quot;container&quot;&gt;
+&lt;ul class=&quot;breadcrumb&quot;&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;active&quot;&gt;Home&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Products&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot;&gt;Computers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;span&gt;&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;#&quot; class=&quot;unique&quot;&gt;Laptops&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -342,12 +340,12 @@ you're encouraged to do so.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ![](./myImages/media/image6.png){width="6.5in" height="1.5138888888888888in"}
 
-## The HTML
-
-\<button class=\"first\"\>Hover over me\</button\>
-
-## The CSS
-
+<h3>The HTML</h3>
+<pre>
+&lt;button class=&quot;first&quot;&gt;Hover over me&lt;/button&gt;
+</pre>
+<h3>The CSS</h3>
+<pre>
 .first {
 
 padding: 10px;
@@ -375,9 +373,9 @@ color: yellow;
 box-shadow: 10px 10px 0 rgb(219, 219, 219);
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Example #2
+<h2>Example #2 of 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image7.png){width="2.557292213473316in"
@@ -385,15 +383,15 @@ height="1.1195516185476815in"}![](./myImages/media/image8.png){width="4.07812554
 height="1.9507917760279965in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-\<button class=\"second\"\>Click me\</button\>
-
+<pre>
+&lt;button class=&quot;second&quot;&gt;Click me&lt;/button&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<pre>
 .second {
 
 width: 180px;
@@ -433,24 +431,26 @@ transform: scale(1.3);
 box-shadow: 5px 5px 10px rgb(119, 119, 119);
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Example #3
+<h2>Example #3 of 3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-![](./myImages/media/image9.png){width="2.0833333333333335in"
-height="0.53125in"}![](./myImages/media/image10.png){width="2.2604166666666665in"
-height="0.7291666666666666in"}![](./myImages/media/image11.png){width="1.8854166666666667in"
+![](./myImages/media/image009.png){width="2.0833333333333335in"
+height="0.53125in"}![](./myImages/media/image010.png){width="2.2604166666666665in"
+height="0.7291666666666666in"}![](./myImages/media/image011.png){width="1.8854166666666667in"
 height="0.6354166666666666in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-\<button class=\"third\"\>Hover over me\</button\>
+<pre>
+&lt;button class=&quot;third&quot;&gt;Hover over me&lt;/button&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<pre>
 .third {
 
 border: none;
@@ -475,7 +475,7 @@ overflow: hidden;
 
 .third::after {
 
-content: \"\";
+content: &quot;&quot;;
 
 background-color: #333;
 
@@ -508,15 +508,15 @@ color: white;
 bottom: 0;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# 3 Web Form & Search Bar Templates
+<h2>3 Web Form & Search Bar Templates</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 []{#9jhjudypc6m5 .anchor}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Template #1
+<h2>Template #1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image012.png){width="6.5in"
@@ -525,89 +525,89 @@ height="1.7916666666666667in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
+&lt;form&gt;
 
-\<form\>
+&lt;div class=&quot;search&quot;&gt;
 
-\<div class=\"search\"\>
+&lt;input type=&quot;text&quot; placeholder=&quot;Search products&quot; /&gt;
 
-\<input type=\"text\" placeholder=\"Search products\" /\>
+&lt;button type=&quot;submit&quot;&gt;Search&lt;/button&gt;
 
-\<button type=\"submit\"\>Search\</button\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;align-center bottom&quot;&gt;
 
-\<div class=\"align-center bottom\"\>
+&lt;div class=&quot;checkbox-block&quot;&gt;
 
-\<div class=\"checkbox-block\"\>
+&lt;input
 
-\<input
+type=&quot;checkbox&quot;
 
-type=\"checkbox\"
+name=&quot;companies_included&quot;
 
-name=\"companies_included\"
+id=&quot;companies_included&quot;
 
-id=\"companies_included\"
+/&gt;
 
-/\>
+&lt;label for=&quot;companies_included&quot;
 
-\<label for=\"companies_included\"
+&gt;Also search companies
 
-\>Also search companies
+&lt;/label&gt;
 
-\</label\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;inline-flex radio-block&quot;&gt;
 
-\<div class=\"inline-flex radio-block\"\>
+&lt;span&gt;Location&lt;/span&gt;
 
-\<span\>Location\</span\>
+&lt;div class=&quot;inline-flex align-center&quot;&gt;
 
-\<div class=\"inline-flex align-center\"\>
+&lt;input
 
-\<input
+type=&quot;radio&quot;
 
-type=\"radio\"
+name=&quot;location&quot;
 
-name=\"location\"
+value=&quot;Your location&quot;
 
-value=\"Your location\"
+id=&quot;your_location&quot;
 
-id=\"your_location\"
+/&gt;
 
-/\>
+&lt;label for=&quot;your_location&quot;&gt; Your location &lt;/label&gt;
 
-\<label for=\"your_location\"\> Your location \</label\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;inline-flex align-center&quot;&gt;
 
-\<div class=\"inline-flex align-center\"\>
+&lt;input
 
-\<input
+type=&quot;radio&quot;
 
-type=\"radio\"
+name=&quot;location&quot;
 
-name=\"location\"
+value=&quot;Worldwide&quot;
 
-value=\"Worldwide\"
+id=&quot;worldwide&quot;
 
-id=\"worldwide\"
+/&gt;
 
-/\>
+&lt;label for=&quot;worldwide&quot;&gt; Worldwide &lt;/label&gt;
 
-\<label for=\"worldwide\"\> Worldwide \</label\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
-
-\</form\>
-
+&lt;/form&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<pre>
 .align-center {
 
 display: flex;
@@ -640,7 +640,7 @@ outline: 1px solid #cccccc;
 
 }
 
-.search \> input {
+.search &gt; input {
 
 flex-grow: 1;
 
@@ -652,13 +652,13 @@ font-size: 1rem;
 
 }
 
-.search \> input:focus {
+.search &gt; input:focus {
 
 outline: none;
 
 }
 
-.search \> button {
+.search &gt; button {
 
 padding: 0.8rem 2rem;
 
@@ -703,7 +703,7 @@ cursor: pointer;
 margin: 0 3px 0 10px;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #2
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -714,119 +714,119 @@ height="4.513888888888889in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
+&lt;form&gt;
 
-\<form\>
+&lt;div class=&quot;input-group&quot;&gt;
 
-\<div class=\"input-group\"\>
+&lt;label for=&quot;fname&quot;&gt;Firstname&lt;/label&gt;
 
-\<label for=\"fname\"\>Firstname\</label\>
+&lt;input
 
-\<input
+id=&quot;fname&quot;
 
-id=\"fname\"
+name=&quot;fname&quot;
 
-name=\"fname\"
+placeholder=&quot;Enter firstname&quot;
 
-placeholder=\"Enter firstname\"
+required=&quot;required&quot;
 
-required=\"required\"
+/&gt;
 
-/\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;input-group&quot;&gt;
 
-\<div class=\"input-group\"\>
+&lt;label for=&quot;lname&quot;&gt;Lastname&lt;/label&gt;
 
-\<label for=\"lname\"\>Lastname\</label\>
+&lt;input
 
-\<input
+id=&quot;lname&quot;
 
-id=\"lname\"
+name=&quot;lname&quot;
 
-name=\"lname\"
+placeholder=&quot;Enter lastname&quot;
 
-placeholder=\"Enter lastname\"
+required=&quot;required&quot;
 
-required=\"required\"
+/&gt;
 
-/\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;input-group&quot;&gt;
 
-\<div class=\"input-group\"\>
+&lt;label for=&quot;email&quot;&gt;Email&lt;/label&gt;
 
-\<label for=\"email\"\>Email\</label\>
+&lt;input
 
-\<input
+id=&quot;email&quot;
 
-id=\"email\"
+type=&quot;email&quot;
 
-type=\"email\"
+name=&quot;email&quot;
 
-name=\"email\"
+placeholder=&quot;Enter your email&quot;
 
-placeholder=\"Enter your email\"
+/&gt;
 
-/\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;input-group&quot;&gt;
 
-\<div class=\"input-group\"\>
+&lt;label&gt;Country&lt;/label&gt;
 
-\<label\>Country\</label\>
+&lt;select name=&quot;country&quot; id=&quot;country&quot; required=&quot;required&quot;&gt;
 
-\<select name=\"country\" id=\"country\" required=\"required\"\>
+&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Select country&lt;/option&gt;
 
-\<option value=\"\" selected=\"selected\"\>Select country\</option\>
+&lt;option value=&quot;Afghanistan&quot;&gt;Afghanistan&lt;/option&gt;
 
-\<option value=\"Afghanistan\"\>Afghanistan\</option\>
+&lt;option value=&quot;Albania&quot;&gt;Albania&lt;/option&gt;
 
-\<option value=\"Albania\"\>Albania\</option\>
+&lt;option value=&quot;Algeria&quot;&gt;Algeria&lt;/option&gt;
 
-\<option value=\"Algeria\"\>Algeria\</option\>
+&lt;option value=&quot;American Samoa&quot;&gt;American Samoa&lt;/option&gt;
 
-\<option value=\"American Samoa\"\>American Samoa\</option\>
+&lt;option value=&quot;Andorra&quot;&gt;Andorra&lt;/option&gt;
 
-\<option value=\"Andorra\"\>Andorra\</option\>
+&lt;option value=&quot;Angola&quot;&gt;Angola&lt;/option&gt;
 
-\<option value=\"Angola\"\>Angola\</option\>
+&lt;option value=&quot;Anguilla&quot;&gt;Anguilla&lt;/option&gt;
 
-\<option value=\"Anguilla\"\>Anguilla\</option\>
+&lt;option value=&quot;Antarctica&quot;&gt;Antarctica&lt;/option&gt;
 
-\<option value=\"Antarctica\"\>Antarctica\</option\>
+&lt;/select&gt;
 
-\</select\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;input-group&quot;&gt;
 
-\<div class=\"input-group\"\>
+&lt;label for=&quot;message&quot;&gt;Any message?&lt;/label&gt;
 
-\<label for=\"message\"\>Any message?\</label\>
+&lt;textarea
 
-\<textarea
+id=&quot;message&quot;
 
-id=\"message\"
+name=&quot;message&quot;
 
-name=\"message\"
+placeholder=&quot;Optional&quot;
 
-placeholder=\"Optional\"
+&gt;&lt;/textarea&gt;
 
-\>\</textarea\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;submit-group&quot;&gt;
 
-\<div class=\"submit-group\"\>
+&lt;button type=&quot;submit&quot;&gt;Submit form&lt;/button&gt;
 
-\<button type=\"submit\"\>Submit form\</button\>
+&lt;/div&gt;
 
-\</div\>
-
-\</form\>
-
+&lt;/form&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<pre>
 &ast; {
 
 box-sizing: border-box;
@@ -910,7 +910,7 @@ cursor: pointer;
 border-radius: 5px;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #2
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -921,124 +921,125 @@ height="5.776042213473316in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
+&lt;form&gt;
 
-\<form\>
+&lt;div&gt;
 
-\<div\>
+&lt;span class=&quot;question&quot;&gt;1. How did you hear about us?&lt;/span&gt;
 
-\<span class=\"question\"\>1. How did you hear about us?\</span\>
+&lt;div class=&quot;radio-group&quot;&gt;
 
-\<div class=\"radio-group\"\>
+&lt;div class=&quot;radio-item&quot;&gt;
 
-\<div class=\"radio-item\"\>
+&lt;input type=&quot;radio&quot; name=&quot;hear_about_us&quot; id=&quot;twitter&quot; /&gt;
 
-\<input type=\"radio\" name=\"hear_about_us\" id=\"twitter\" /\>
+&lt;label for=&quot;twitter&quot;&gt;Twitter&lt;/label&gt;
 
-\<label for=\"twitter\"\>Twitter\</label\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;radio-item&quot;&gt;
 
-\<div class=\"radio-item\"\>
+&lt;input type=&quot;radio&quot; name=&quot;hear_about_us&quot; id=&quot;facebook&quot; /&gt;
 
-\<input type=\"radio\" name=\"hear_about_us\" id=\"facebook\" /\>
+&lt;label for=&quot;facebook&quot;&gt;Facebook&lt;/label&gt;
 
-\<label for=\"facebook\"\>Facebook\</label\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;radio-item&quot;&gt;
 
-\<div class=\"radio-item\"\>
+&lt;input type=&quot;radio&quot; name=&quot;hear_about_us&quot; id=&quot;other&quot; /&gt;
 
-\<input type=\"radio\" name=\"hear_about_us\" id=\"other\" /\>
+&lt;label for=&quot;other&quot;&gt;Other&lt;/label&gt;
 
-\<label for=\"other\"\>Other\</label\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div&gt;
 
-\<div\>
+&lt;span class=&quot;question&quot;&gt;2. Where do you live?&lt;/span&gt;
 
-\<span class=\"question\"\>2. Where do you live?\</span\>
+&lt;select name=&quot;country&quot; id=&quot;country&quot; required=&quot;required&quot;&gt;
 
-\<select name=\"country\" id=\"country\" required=\"required\"\>
+&lt;option value=&quot;&quot; selected=&quot;selected&quot;&gt;Select country&lt;/option&gt;
 
-\<option value=\"\" selected=\"selected\"\>Select country\</option\>
+&lt;option value=&quot;Afghanistan&quot;&gt;Afghanistan&lt;/option&gt;
 
-\<option value=\"Afghanistan\"\>Afghanistan\</option\>
+&lt;option value=&quot;Albania&quot;&gt;Albania&lt;/option&gt;
 
-\<option value=\"Albania\"\>Albania\</option\>
+&lt;option value=&quot;Algeria&quot;&gt;Algeria&lt;/option&gt;
 
-\<option value=\"Algeria\"\>Algeria\</option\>
+&lt;option value=&quot;American Samoa&quot;&gt;American Samoa&lt;/option&gt;
 
-\<option value=\"American Samoa\"\>American Samoa\</option\>
+&lt;option value=&quot;Andorra&quot;&gt;Andorra&lt;/option&gt;
 
-\<option value=\"Andorra\"\>Andorra\</option\>
+&lt;option value=&quot;Angola&quot;&gt;Angola&lt;/option&gt;
 
-\<option value=\"Angola\"\>Angola\</option\>
+&lt;option value=&quot;Anguilla&quot;&gt;Anguilla&lt;/option&gt;
 
-\<option value=\"Anguilla\"\>Anguilla\</option\>
+&lt;option value=&quot;Antarctica&quot;&gt;Antarctica&lt;/option&gt;
 
-\<option value=\"Antarctica\"\>Antarctica\</option\>
+&lt;/select&gt;
 
-\</select\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div&gt;
 
-\<div\>
+&lt;span class=&quot;question&quot;&gt;3. You age range&lt;/span&gt;
 
-\<span class=\"question\"\>3. You age range\</span\>
+&lt;div class=&quot;radio-group&quot;&gt;
 
-\<div class=\"radio-group\"\>
+&lt;div class=&quot;radio-item&quot;&gt;
 
-\<div class=\"radio-item\"\>
+&lt;input type=&quot;radio&quot; name=&quot;age_range&quot; id=&quot;lower&quot; /&gt;
 
-\<input type=\"radio\" name=\"age_range\" id=\"lower\" /\>
+&lt;label for=&quot;lower&quot;&gt;18-25&lt;/label&gt;
 
-\<label for=\"lower\"\>18-25\</label\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;radio-item&quot;&gt;
 
-\<div class=\"radio-item\"\>
+&lt;input type=&quot;radio&quot; name=&quot;age_range&quot; id=&quot;middle&quot; /&gt;
 
-\<input type=\"radio\" name=\"age_range\" id=\"middle\" /\>
+&lt;label for=&quot;middle&quot;&gt;26-35&lt;/label&gt;
 
-\<label for=\"middle\"\>26-35\</label\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;radio-item&quot;&gt;
 
-\<div class=\"radio-item\"\>
+&lt;input type=&quot;radio&quot; name=&quot;age_range&quot; id=&quot;higher&quot; /&gt;
 
-\<input type=\"radio\" name=\"age_range\" id=\"higher\" /\>
+&lt;label for=&quot;higher&quot;&gt;36 or more&lt;/label&gt;
 
-\<label for=\"higher\"\>36 or more\</label\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div&gt;
 
-\<div\>
+&lt;span class=&quot;question&quot;&gt;4. Anything else we should know? &lt;/span&gt;
 
-\<span class=\"question\"\>4. Anything else we should know? \</span\>
+&lt;textarea name=&quot;message&quot;&gt;&lt;/textarea&gt;
 
-\<textarea name=\"message\"\>\</textarea\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div&gt;
 
-\<div\>
+&lt;button class=&quot;submit-btn&quot;&gt;Submit survey&lt;/button&gt;
 
-\<button class=\"submit-btn\"\>Submit survey\</button\>
+&lt;/div&gt;
 
-\</div\>
-
-\</form\>
-
+&lt;/form&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 &ast; {
 
@@ -1058,7 +1059,7 @@ max-width: 400px;
 
 }
 
-form \> div {
+form &gt; div {
 
 margin-bottom: 20px;
 
@@ -1129,7 +1130,7 @@ padding: 10px;
 cursor: pointer;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="lightbox-modal-element">Lightbox Modal Element Template (1 example)</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1148,62 +1149,63 @@ height="3.270278871391076in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<div class=\"images\"\>
+&lt;div class=&quot;images&quot;&gt;
 
-\<img onclick=\"openModal(0)\" id=\"image0\" /\>
+&lt;img onclick=&quot;openModal(0)&quot; id=&quot;image0&quot; /&gt;
 
-\<img onclick=\"openModal(1)\" id=\"image1\" /\>
+&lt;img onclick=&quot;openModal(1)&quot; id=&quot;image1&quot; /&gt;
 
-\<img onclick=\"openModal(2)\" id=\"image2\" /\>
+&lt;img onclick=&quot;openModal(2)&quot; id=&quot;image2&quot; /&gt;
 
-\<img onclick=\"openModal(3)\" id=\"image3\" /\>
+&lt;img onclick=&quot;openModal(3)&quot; id=&quot;image3&quot; /&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div id=\"lightbox\" class=\"lightbox\"\>
+&lt;div id=&quot;lightbox&quot; class=&quot;lightbox&quot;&gt;
 
-\<button onclick=\"closeModal()\" class=\"close-btn\"\>
+&lt;button onclick=&quot;closeModal()&quot; class=&quot;close-btn&quot;&gt;
 
 Close
 
-\</button\>
+&lt;/button&gt;
 
-\<div class=\"image-preview\"\>
+&lt;div class=&quot;image-preview&quot;&gt;
 
-\<img id=\"preview-image\" /\>
+&lt;img id=&quot;preview-image&quot; /&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"control-btns\"\>
+&lt;div class=&quot;control-btns&quot;&gt;
 
-\<button onclick=\"control(-1)\" class=\"control-left\"\>
+&lt;button onclick=&quot;control(-1)&quot; class=&quot;control-left&quot;&gt;
 
 &lt;
 
-\</button\>
+&lt;/button&gt;
 
-\<button onclick=\"control(1)\" class=\"control-left\"\>
+&lt;button onclick=&quot;control(1)&quot; class=&quot;control-left&quot;&gt;
 
 &gt;
 
-\</button\>
+&lt;/button&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div id=\"modal-images-block\" class=\"lightbox\_\_images\"\>
+&lt;div id=&quot;modal-images-block&quot; class=&quot;lightbox\_\_images&quot;&gt;
 
-\<img onclick=\"openModal(0)\" id=\"l-image0\" /\>
+&lt;img onclick=&quot;openModal(0)&quot; id=&quot;l-image0&quot; /&gt;
 
-\<img onclick=\"openModal(1)\" id=\"l-image1\" /\>
+&lt;img onclick=&quot;openModal(1)&quot; id=&quot;l-image1&quot; /&gt;
 
-\<img onclick=\"openModal(2)\" id=\"l-image2\" /\>
+&lt;img onclick=&quot;openModal(2)&quot; id=&quot;l-image2&quot; /&gt;
 
-\<img onclick=\"openModal(3)\" id=\"l-image3\" /\>
+&lt;img onclick=&quot;openModal(3)&quot; id=&quot;l-image3&quot; /&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
 <h3>The CSS</h3>
 
@@ -1356,44 +1358,45 @@ width: 100%;
 opacity: 1;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 const IMAGE0 =
 
-\"https://i.picsum.photos/id/229/400/200.jpg?hmac=ULnwo8IFtjR3PshWPNEvFWNU8Xwl_OIeUtVmZIQanhU\"
+&quot;https://i.picsum.photos/id/229/400/200.jpg?hmac=ULnwo8IFtjR3PshWPNEvFWNU8Xwl_OIeUtVmZIQanhU&quot;
 
 const IMAGE1 =
 
-\"https://i.picsum.photos/id/154/400/200.jpg?hmac=uhKcJIPoFcq2xMC16yvZAwA8sTeIbThUr-Njq0DkhSU\"
+&quot;https://i.picsum.photos/id/154/400/200.jpg?hmac=uhKcJIPoFcq2xMC16yvZAwA8sTeIbThUr-Njq0DkhSU&quot;
 
 const IMAGE2 =
 
-\"https://i.picsum.photos/id/690/400/200.jpg?hmac=kOkDXkZEUaSUQviVm67apRu5EPMD_L0rHfKVt32iogQ\"
+&quot;https://i.picsum.photos/id/690/400/200.jpg?hmac=kOkDXkZEUaSUQviVm67apRu5EPMD_L0rHfKVt32iogQ&quot;
 
 const IMAGE3 =
 
-\"https://i.picsum.photos/id/633/400/200.jpg?hmac=-axbA3Zg3r_xPYOy7OdaIb5yTFDBKubd9LYJrnwpHeU\"
+&quot;https://i.picsum.photos/id/633/400/200.jpg?hmac=-axbA3Zg3r_xPYOy7OdaIb5yTFDBKubd9LYJrnwpHeU&quot;
 
 const images = \[IMAGE0, IMAGE1, IMAGE2, IMAGE3\]
 
-const image0 = document.getElementById(\"image0\")
+const image0 = document.getElementById(&quot;image0&quot;)
 
-const image1 = document.getElementById(\"image1\")
+const image1 = document.getElementById(&quot;image1&quot;)
 
-const image2 = document.getElementById(\"image2\")
+const image2 = document.getElementById(&quot;image2&quot;)
 
-const image3 = document.getElementById(\"image3\")
+const image3 = document.getElementById(&quot;image3&quot;)
 
-const lightbox = document.getElementById(\"lightbox\")
+const lightbox = document.getElementById(&quot;lightbox&quot;)
 
-const previewImg = document.getElementById(\"preview-image\")
+const previewImg = document.getElementById(&quot;preview-image&quot;)
 
 const modalImagesBlock = document.getElementById(
 
-\"modal-images-block\"
+&quot;modal-images-block&quot;
 
 )
 
@@ -1411,11 +1414,11 @@ previewImg.src = images\[0\]
 
 const modalImagesElements =
 
-modalImagesBlock.getElementsByTagName(\"img\")
+modalImagesBlock.getElementsByTagName(&quot;img&quot;)
 
 const modalImages = Object.values(modalImagesElements)
 
-modalImages.forEach((imageElement, i) =\> {
+modalImages.forEach((imageElement, i) =&gt; {
 
 console.log(imageElement)
 
@@ -1427,23 +1430,23 @@ function openModal(imgId) {
 
 if (activeId !== null) {
 
-modalImages\[activeId\].classList.remove(\"active\")
+modalImages\[activeId\].classList.remove(&quot;active&quot;)
 
 }
 
 activeId = imgId
 
-lightbox.classList.add(\"visible\")
+lightbox.classList.add(&quot;visible&quot;)
 
 previewImg.src = images\[imgId\]
 
-modalImages\[imgId\].classList.add(\"active\")
+modalImages\[imgId\].classList.add(&quot;active&quot;)
 
 }
 
 function closeModal() {
 
-lightbox.classList.remove(\"visible\")
+lightbox.classList.remove(&quot;visible&quot;)
 
 }
 
@@ -1457,7 +1460,7 @@ if (direction === 1) {
 
 activeId =
 
-activeId + 1 \> images.length - 1
+activeId + 1 &gt; images.length - 1
 
 ? // then go to the beginning
 
@@ -1471,7 +1474,7 @@ activeId + 1 \> images.length - 1
 
 activeId =
 
-activeId - 1 \< 0
+activeId - 1 &lt; 0
 
 ? // then go to the end
 
@@ -1483,14 +1486,14 @@ activeId - 1 \< 0
 
 previewImg.src = images\[activeId\]
 
-modalImages\[activeId\].classList.add(\"active\")
+modalImages\[activeId\].classList.add(&quot;active&quot;)
 
-modalImages\[prevId\].classList.remove(\"active\")
+modalImages\[prevId\].classList.remove(&quot;active&quot;)
 
 }
 
 []{#kdb634vxe28v .anchor}
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #1
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1501,18 +1504,20 @@ height="1.4479166666666667in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<div class=\"tooltip\"\>
+&lt;div class=&quot;tooltip&quot;&gt;
 
-\<span\>Top\</span\>
+&lt;span&gt;Top&lt;/span&gt;
 
-\<div class=\"tooltip-text\"\>This is the top of the tooltip\</div\>
+&lt;div class=&quot;tooltip-text&quot;&gt;This is the top of the tooltip&lt;/div&gt;
 
-\</div\>
-
+&lt;/div&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 body {
 
@@ -1558,7 +1563,7 @@ visibility: hidden;
 
 .tooltip-text::after {
 
-content: \"\";
+content: &quot;&quot;;
 
 position: absolute;
 
@@ -1583,7 +1588,7 @@ border-top: 10px solid #333;
 visibility: visible;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #2
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1593,18 +1598,20 @@ visibility: visible;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<div class=\"tooltip\"\>
+&lt;div class=&quot;tooltip&quot;&gt;
 
-\<span\>Right\</span\>
+&lt;span&gt;Right&lt;/span&gt;
 
-\<div class=\"tooltip-text\"\>This is the right of the tooltip\</div\>
+&lt;div class=&quot;tooltip-text&quot;&gt;This is the right of the tooltip&lt;/div&gt;
 
-\</div\>
-
+&lt;/div&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 .tooltip {
 
@@ -1642,7 +1649,7 @@ visibility: hidden;
 
 .tooltip-text::after {
 
-content: \"\";
+content: &quot;&quot;;
 
 position: absolute;
 
@@ -1667,6 +1674,7 @@ border-right: 10px solid #333;
 visibility: visible;
 
 }
+</pre>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #3
@@ -1678,20 +1686,21 @@ height="1.4583333333333333in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<div class=\"tooltip\"\>
+&lt;div class=&quot;tooltip&quot;&gt;
 
-\<span\>Bottom\</span\>
+&lt;span&gt;Bottom&lt;/span&gt;
 
-\<div class=\"tooltip-text\"\> This is the bottom of the tooltip
-\</div\>
+&lt;div class=&quot;tooltip-text&quot;&gt; This is the bottom of the tooltip
+&lt;/div&gt;
 
-\</div\>
-
+&lt;/div&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<pre>
 .tooltip {
 
 position: relative;
@@ -1730,7 +1739,7 @@ visibility: hidden;
 
 .tooltip-text::after {
 
-content: \"\";
+content: &quot;&quot;;
 
 position: absolute;
 
@@ -1755,7 +1764,7 @@ border-bottom: 10px solid #333;
 visibility: visible;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #4
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1766,14 +1775,15 @@ height="0.9166666666666666in"}
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<div class=\"tooltip\"\>
+&lt;div class=&quot;tooltip&quot;&gt;
 
-\<span\>Left\</span\>
+&lt;span&gt;Left&lt;/span&gt;
 
-\<div class=\"tooltip-text\"\>This is the left of the tooltip\</div\>
+&lt;div class=&quot;tooltip-text&quot;&gt;This is the left of the tooltip&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
 The CSS
 
@@ -1819,7 +1829,7 @@ visibility: hidden;
 
 .tooltip-text::after {
 
-content: \"\";
+content: &quot;&quot;;
 
 position: absolute;
 
@@ -1845,6 +1855,7 @@ visibility: visible;
 
 }
 
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 2 Progress Bar Templates
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1854,12 +1865,14 @@ visibility: visible;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-\<progress class=\"first\" value=\"50\" max=\"100\"\>\</progress\>
+<pre>
+&lt;progress class=&quot;first&quot; value=&quot;50&quot; max=&quot;100&quot;&gt;&lt;/progress&gt;
+</pre>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 .first {
 
@@ -1884,25 +1897,27 @@ background-color: white;
 background-color: purple;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #2
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<progress class=\"second\" value=\"40\" max=\"100\"\>\</progress\>
+&lt;progress class=&quot;second&quot; value=&quot;40&quot; max=&quot;100&quot;&gt;&lt;/progress&gt;
 
 ![](./myImages/media/image23.png){width="5.083333333333333in"
 height="0.7395833333333334in"}
 
-\<progress class=\"second\" value=\"80\" max=\"100\"\>\</progress\>
+&lt;progress class=&quot;second&quot; value=&quot;80&quot; max=&quot;100&quot;&gt;&lt;/progress&gt;
 
 ![](./myImages/media/image24.png){width="5.0in" height="0.78125in"}
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 .second {
 
@@ -1945,7 +1960,7 @@ rgb(85, 255, 0) 100px
 border-radius: 15px;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 2 CSS Accordian Templates
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -1953,54 +1968,35 @@ border-radius: 15px;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<!DOCTYPE html\>
+&lt;!DOCTYPE html&gt;
 
-\<html lang=\"en\"\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<head\>
+&lt;head&gt;
 
-\<title\>Document\</title\>
+&lt;title&gt;Document&lt;/title&gt;
 
-\<link rel=\"stylesheet\" href=\"style.css\" /\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
 
-\</head\>
+&lt;/head&gt;
 
-\<body\>
+&lt;body&gt;
 
-\<div class=\"container\"\>
+&lt;div class=&quot;container&quot;&gt;
 
-\<h1\>CSS Accordion\</h1\>
+&lt;h1&gt;CSS Accordion&lt;/h1&gt;
 
-\<div class=\"accordion\"\>
+&lt;div class=&quot;accordion&quot;&gt;
 
-\<div class=\"tab\"\>
+&lt;div class=&quot;tab&quot;&gt;
 
-\<input type=\"checkbox\" id=\"tab1\" /\>
+&lt;input type=&quot;checkbox&quot; id=&quot;tab1&quot; /&gt;
 
-\<label class=\"tab-label\" for=\"tab1\"\>Lorem ipsum 1\</label\>
+&lt;label class=&quot;tab-label&quot; for=&quot;tab1&quot;&gt;Lorem ipsum 1&lt;/label&gt;
 
-\<div class=\"tab-content\"\>
-
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
-
-perferendis eligendi fugit quaerat consequatur fuga pariatur
-
-ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
-
-tempore itaque quas excepturi.
-
-\</div\>
-
-\</div\>
-
-\<div class=\"tab\"\>
-
-\<input type=\"checkbox\" id=\"tab2\" /\>
-
-\<label class=\"tab-label\" for=\"tab2\"\>Lorem ipsum 2\</label\>
-
-\<div class=\"tab-content\"\>
+&lt;div class=&quot;tab-content&quot;&gt;
 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
 
@@ -2010,17 +2006,17 @@ ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
 
 tempore itaque quas excepturi.
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"tab\"\>
+&lt;div class=&quot;tab&quot;&gt;
 
-\<input type=\"checkbox\" id=\"tab3\" /\>
+&lt;input type=&quot;checkbox&quot; id=&quot;tab2&quot; /&gt;
 
-\<label class=\"tab-label\" for=\"tab3\"\>Lorem ipsum 3\</label\>
+&lt;label class=&quot;tab-label&quot; for=&quot;tab2&quot;&gt;Lorem ipsum 2&lt;/label&gt;
 
-\<div class=\"tab-content\"\>
+&lt;div class=&quot;tab-content&quot;&gt;
 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
 
@@ -2030,24 +2026,45 @@ ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
 
 tempore itaque quas excepturi.
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;tab&quot;&gt;
 
-\</div\>
+&lt;input type=&quot;checkbox&quot; id=&quot;tab3&quot; /&gt;
 
-\</body\>
+&lt;label class=&quot;tab-label&quot; for=&quot;tab3&quot;&gt;Lorem ipsum 3&lt;/label&gt;
 
-\</html\>
+&lt;div class=&quot;tab-content&quot;&gt;
 
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
+
+perferendis eligendi fugit quaerat consequatur fuga pariatur
+
+ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
+
+tempore itaque quas excepturi.
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 \@import
-\"https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400\";
+&quot;https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400&quot;;
 
 body {
 
@@ -2059,7 +2076,7 @@ width: 100vw;
 
 padding: 0 1em 1em;
 
-font-family: \"Raleway\", sans-serif;
+font-family: &quot;Raleway&quot;, sans-serif;
 
 }
 
@@ -2139,7 +2156,7 @@ background: #dce7ea;
 
 .tab-label::after {
 
-content: \"❯\";
+content: &quot;❯&quot;;
 
 width: 1em;
 
@@ -2208,60 +2225,41 @@ max-height: 100vh;
 padding: 1rem;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #2: Accordion Using CSS and HTML and JavaScript
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<!DOCTYPE html\>
+&lt;!DOCTYPE html&gt;
 
-\<html lang=\"en\"\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<head\>
+&lt;head&gt;
 
-\<title\>Document\</title\>
+&lt;title&gt;Document&lt;/title&gt;
 
-\<link rel=\"stylesheet\" href=\"style.css\" /\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
 
-\</head\>
+&lt;/head&gt;
 
-\<body\>
+&lt;body&gt;
 
-\<div class=\"container\"\>
+&lt;div class=&quot;container&quot;&gt;
 
-\<h1\>CSS Accordion With Javascript\</h1\>
+&lt;h1&gt;CSS Accordion With Javascript&lt;/h1&gt;
 
-\<div class=\"accordion\"\>
+&lt;div class=&quot;accordion&quot;&gt;
 
-\<div class=\"tab\"\>
+&lt;div class=&quot;tab&quot;&gt;
 
-\<input type=\"checkbox\" id=\"tab1\" /\>
+&lt;input type=&quot;checkbox&quot; id=&quot;tab1&quot; /&gt;
 
-\<label class=\"tab-label\" for=\"tab1\"\>Lorem ipsum 1\</label\>
+&lt;label class=&quot;tab-label&quot; for=&quot;tab1&quot;&gt;Lorem ipsum 1&lt;/label&gt;
 
-\<div class=\"tab-content\"\>
-
-Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
-
-perferendis eligendi fugit quaerat consequatur fuga pariatur
-
-ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
-
-tempore itaque quas excepturi.
-
-\</div\>
-
-\</div\>
-
-\<div class=\"tab\"\>
-
-\<input type=\"checkbox\" id=\"tab2\" /\>
-
-\<label class=\"tab-label\" for=\"tab2\"\>Lorem ipsum 2\</label\>
-
-\<div class=\"tab-content\"\>
+&lt;div class=&quot;tab-content&quot;&gt;
 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
 
@@ -2271,17 +2269,17 @@ ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
 
 tempore itaque quas excepturi.
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"tab\"\>
+&lt;div class=&quot;tab&quot;&gt;
 
-\<input type=\"checkbox\" id=\"tab3\" /\>
+&lt;input type=&quot;checkbox&quot; id=&quot;tab2&quot; /&gt;
 
-\<label class=\"tab-label\" for=\"tab3\"\>Lorem ipsum 3\</label\>
+&lt;label class=&quot;tab-label&quot; for=&quot;tab2&quot;&gt;Lorem ipsum 2&lt;/label&gt;
 
-\<div class=\"tab-content\"\>
+&lt;div class=&quot;tab-content&quot;&gt;
 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
 
@@ -2291,26 +2289,47 @@ ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
 
 tempore itaque quas excepturi.
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;div class=&quot;tab&quot;&gt;
 
-\</div\>
+&lt;input type=&quot;checkbox&quot; id=&quot;tab3&quot; /&gt;
 
-\<script src=\"index.js\"\>\</script\>
+&lt;label class=&quot;tab-label&quot; for=&quot;tab3&quot;&gt;Lorem ipsum 3&lt;/label&gt;
 
-\</body\>
+&lt;div class=&quot;tab-content&quot;&gt;
 
-\</html\>
+Lorem ipsum dolor sit, amet consectetur adipisicing elit. Doloremque
 
+perferendis eligendi fugit quaerat consequatur fuga pariatur
+
+ratione, enim mollitia aut! Nobis maxime voluptas harum labore quos,
+
+tempore itaque quas excepturi.
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;
+
+&lt;/body&gt;
+
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 \@import
-\"https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400\";
+&quot;https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400&quot;;
 
 body {
 
@@ -2322,7 +2341,7 @@ width: 100vw;
 
 padding: 0 1em 1em;
 
-font-family: \"Raleway\", sans-serif;
+font-family: &quot;Raleway&quot;, sans-serif;
 
 }
 
@@ -2400,7 +2419,7 @@ cursor: pointer;
 
 .tab-label::after {
 
-content: \"❯\";
+content: &quot;❯&quot;;
 
 width: 1em;
 
@@ -2459,25 +2478,25 @@ max-height: 100vh;
 padding: 1rem;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
-const accordions = document.getElementsByClassName(\"tab\");
+<pre>
+const accordions = document.getElementsByClassName(&quot;tab&quot;);
 
 for (const accordion of accordions) {
 
-accordion.addEventListener(\"click\", function (e) {
+accordion.addEventListener(&quot;click&quot;, function (e) {
 
 e.preventDefault();
 
-accordion.classList.toggle(\"open-tab\");
+accordion.classList.toggle(&quot;open-tab&quot;);
 
 });
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 4 CSS Effects Templates
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2489,46 +2508,47 @@ Template #1: Opacity
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<!DOCTYPE html\>
+&lt;!DOCTYPE html&gt;
 
-\<html lang=\"en\"\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<head\>
+&lt;head&gt;
 
-\<link rel=\"stylesheet\" href=\"style.css\" /\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
 
-\</head\>
+&lt;/head&gt;
 
-\<body\>
+&lt;body&gt;
 
-\<div class=\"container\"\>
+&lt;div class=&quot;container&quot;&gt;
 
-\<div class=\"box\"\>
+&lt;div class=&quot;box&quot;&gt;
 
-\<img src=\"./girl-with-guitar.jpeg\" alt=\"img\" /\>\
-\<img
+&lt;img src=&quot;./girl-with-guitar.jpeg&quot; alt=&quot;img&quot; /&gt;\
+&lt;img
 
-src=\"./girl-with-guitar.jpeg\"
+src=&quot;./girl-with-guitar.jpeg&quot;
 
-alt=\"img\"
+alt=&quot;img&quot;
 
-class=\"translucent\"
+class=&quot;translucent&quot;
 
-/\>
+/&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</body\>
+&lt;/body&gt;
 
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<pre>
 &ast;,
 
 &ast;::after,
@@ -2559,7 +2579,7 @@ width: 100vw;
 
 background: #c8c7c7;
 
-font-family: \"Roboto\", sans-serif;
+font-family: &quot;Roboto&quot;, sans-serif;
 
 }
 
@@ -2592,51 +2612,53 @@ width: 48%;
 filter: opacity(35%);
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #2: Grayscale
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<!DOCTYPE html\>
+&lt;!DOCTYPE html&gt;
 
-\<html lang=\"en\"\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<head\>
+&lt;head&gt;
 
-\<link rel=\"stylesheet\" href=\"style.css\" /\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
 
-\</head\>
+&lt;/head&gt;
 
-\<body\>
+&lt;body&gt;
 
-\<div class=\"container\"\>
+&lt;div class=&quot;container&quot;&gt;
 
-\<div class=\"box\"\>
+&lt;div class=&quot;box&quot;&gt;
 
-\<img src=\"./girl-with-guitar.jpeg\" alt=\"img\" /\>\
-\<img
+&lt;img src=&quot;./girl-with-guitar.jpeg&quot; alt=&quot;img&quot; /&gt;\
+&lt;img
 
-src=\"./girl-with-guitar.jpeg\"
+src=&quot;./girl-with-guitar.jpeg&quot;
 
-alt=\"img\"
+alt=&quot;img&quot;
 
-class=\"black-white\"
+class=&quot;black-white&quot;
 
-/\>
+/&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</body\>
+&lt;/body&gt;
 
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 &ast;,
 
@@ -2668,7 +2690,7 @@ width: 100vw;
 
 background: #c8c7c7;
 
-font-family: \"Roboto\", sans-serif;
+font-family: &quot;Roboto&quot;, sans-serif;
 
 }
 
@@ -2701,49 +2723,50 @@ width: 48%;
 filter: grayscale(100%);
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #3: Sepia
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
+&lt;!DOCTYPE html&gt;
 
-\<!DOCTYPE html\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<html lang=\"en\"\>
+&lt;head&gt;
 
-\<head\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
 
-\<link rel=\"stylesheet\" href=\"style.css\" /\>
+&lt;/head&gt;
 
-\</head\>
+&lt;body&gt;
 
-\<body\>
+&lt;div class=&quot;container&quot;&gt;
 
-\<div class=\"container\"\>
+&lt;div class=&quot;box&quot;&gt;
 
-\<div class=\"box\"\>
+&lt;img src=&quot;./girl-with-guitar.jpeg&quot; alt=&quot;img&quot; /&gt;\
+&lt;img
 
-\<img src=\"./girl-with-guitar.jpeg\" alt=\"img\" /\>\
-\<img
+src=&quot;./girl-with-guitar.jpeg&quot;
 
-src=\"./girl-with-guitar.jpeg\"
+alt=&quot;img&quot;
 
-alt=\"img\"
+class=&quot;nineties-effect&quot;
 
-class=\"nineties-effect\"
+/&gt;
 
-/\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/body&gt;
 
-\</body\>
-
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 &ast;,
 
@@ -2775,7 +2798,7 @@ width: 100vw;
 
 background: #c8c7c7;
 
-font-family: \"Roboto\", sans-serif;
+font-family: &quot;Roboto&quot;, sans-serif;
 
 }
 
@@ -2808,51 +2831,53 @@ width: 48%;
 filter: sepia(100%);
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #4: Hover
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<!DOCTYPE html\>
+&lt;!DOCTYPE html&gt;
 
-\<html lang=\"en\"\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<head\>
+&lt;head&gt;
 
-\<link rel=\"stylesheet\" href=\"style.css\" /\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
 
-\</head\>
+&lt;/head&gt;
 
-\<body\>
+&lt;body&gt;
 
-\<div class=\"container\"\>
+&lt;div class=&quot;container&quot;&gt;
 
-\<div class=\"box\"\>
+&lt;div class=&quot;box&quot;&gt;
 
-\<img src=\"./girl-with-guitar.jpeg\" alt=\"img\" /\>\
-\<img
+&lt;img src=&quot;./girl-with-guitar.jpeg&quot; alt=&quot;img&quot; /&gt;\
+&lt;img
 
-src=\"./girl-with-guitar.jpeg\"
+src=&quot;./girl-with-guitar.jpeg&quot;
 
-alt=\"img\"
+alt=&quot;img&quot;
 
-class=\"hover-effect\"
+class=&quot;hover-effect&quot;
 
-/\>
+/&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</body\>
+&lt;/body&gt;
 
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 &ast;,
 
@@ -2886,7 +2911,7 @@ background: #fafafa;
 
 /&ast; background: #c8c7c7; &ast;/
 
-font-family: \"Roboto\", sans-serif;
+font-family: &quot;Roboto&quot;, sans-serif;
 
 }
 
@@ -2919,7 +2944,7 @@ width: 48%;
 filter: grayscale(100%);
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 2 CSS Tab Navigation Templates
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -2927,72 +2952,74 @@ Template #1: CSS Tab Navigation with Animation Effects
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<!DOCTYPE html\>
+&lt;!DOCTYPE html&gt;
 
-\<html lang=\"en\"\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<head\>
+&lt;head&gt;
 
-\<title\>Document\</title\>
+&lt;title&gt;Document&lt;/title&gt;
 
-\<link rel=\"stylesheet\" href=\"styles.css\" /\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot; /&gt;
 
-\</head\>
+&lt;/head&gt;
 
-\<body\>
+&lt;body&gt;
 
-\<!\-- Tabbed image gallery \--\>
+&lt;!\-- Tabbed image gallery \--&gt;
 
-\<div class=\"tabbed-gallery\"\>
+&lt;div class=&quot;tabbed-gallery&quot;&gt;
 
-\<div class=\"btn-row\"\>
+&lt;div class=&quot;btn-row&quot;&gt;
 
-\<button class=\"btn active-btn\"\>New York\</button\>
+&lt;button class=&quot;btn active-btn&quot;&gt;New York&lt;/button&gt;
 
-\<button class=\"btn\"\>Honolulu\</button\>
+&lt;button class=&quot;btn&quot;&gt;Honolulu&lt;/button&gt;
 
-\<button class=\"btn\"\>Seoul\</button\>
+&lt;button class=&quot;btn&quot;&gt;Seoul&lt;/button&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div id=\"New York\" class=\"city\"\>
+&lt;div id=&quot;New York&quot; class=&quot;city&quot;&gt;
 
-\<img src=\"./img/new-york.jpeg\" alt=\"New York\" class=\"\" /\>
+&lt;img src=&quot;./img/new-york.jpeg&quot; alt=&quot;New York&quot; class=&quot;&quot; /&gt;
 
-\<p\>New York City\</p\>
+&lt;p&gt;New York City&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div id=\"Honolulu\" class=\"city hidden-city\"\>
+&lt;div id=&quot;Honolulu&quot; class=&quot;city hidden-city&quot;&gt;
 
-\<img src=\"./img/honolulu.jpeg\" alt=\"Honolulu\" class=\"\" /\>
+&lt;img src=&quot;./img/honolulu.jpeg&quot; alt=&quot;Honolulu&quot; class=&quot;&quot; /&gt;
 
-\<p\>Honolulu\</p\>
+&lt;p&gt;Honolulu&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div id=\"Seoul\" class=\"city hidden-city\"\>
+&lt;div id=&quot;Seoul&quot; class=&quot;city hidden-city&quot;&gt;
 
-\<img src=\"./img/seoul.jpeg\" alt=\"Seoul\" class=\"\" /\>
+&lt;img src=&quot;./img/seoul.jpeg&quot; alt=&quot;Seoul&quot; class=&quot;&quot; /&gt;
 
-\<p\>Seoul\</p\>
+&lt;p&gt;Seoul&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<script src=\"index.js\"\>\</script\>
+&lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;
 
-\</body\>
+&lt;/body&gt;
 
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 \@import
-url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap\");
+url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap&quot;);
 
 &ast; {
 
@@ -3002,7 +3029,7 @@ margin: 0;
 
 box-sizing: border-box;
 
-font-family: \"DynaPuff\", cursive, sans-serif;
+font-family: &quot;DynaPuff&quot;, cursive, sans-serif;
 
 }
 
@@ -3113,81 +3140,83 @@ color: #fafafa;
 font-size: 3.5rem;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-const buttons = document.querySelectorAll(\".btn\");
+const buttons = document.querySelectorAll(&quot;.btn&quot;);
 
-const cities = document.querySelectorAll(\".city\");
+const cities = document.querySelectorAll(&quot;.city&quot;);
 
 function showCity(e, index) {
 
 //adds the hidden-city class to all image element and removes the
 active-btn class from all buttons
 
-for (let i = 0; i \< cities.length; i++) {
+for (let i = 0; i &lt; cities.length; i++) {
 
-cities\[i\].classList.add(\"hidden-city\");
+cities\[i\].classList.add(&quot;hidden-city&quot;);
 
-buttons\[i\].classList.remove(\"active-btn\");
+buttons\[i\].classList.remove(&quot;active-btn&quot;);
 
 }
 
 //add the active-btn class to the clicked button
 
-e.target.classList.add(\"active-btn\");
+e.target.classList.add(&quot;active-btn&quot;);
 
 // pick the right city and make it visible
 
-cities\[index\].classList.remove(\"hidden-city\");
+cities\[index\].classList.remove(&quot;hidden-city&quot;);
 
 }
 
-buttons.forEach((button, index) =\> {
+buttons.forEach((button, index) =&gt; {
 
-button.addEventListener(\"click\", (e) =\> {
+button.addEventListener(&quot;click&quot;, (e) =&gt; {
 
 showCity(e, index);
 
 });
 
 });
+</pre>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #2: CSS Tab Navigation with a Simple Tabbed Image Gallery
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
+&lt;!DOCTYPE html&gt;
 
-\<!DOCTYPE html\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<html lang=\"en\"\>
+&lt;head&gt;
 
-\<head\>
+&lt;title&gt;Document&lt;/title&gt;
 
-\<title\>Document\</title\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot; /&gt;
 
-\<link rel=\"stylesheet\" href=\"styles.css\" /\>
+&lt;/head&gt;
 
-\</head\>
+&lt;body&gt;
 
-\<body\>
+&lt;!\-- Tabbed image gallery \--&gt;
 
-\<!\-- Tabbed image gallery \--\>
+&lt;div class=&quot;tabbed-gallery&quot;&gt;
 
-\<div class=\"tabbed-gallery\"\>
+&lt;div class=&quot;btn-row&quot;&gt;
 
-\<div class=\"btn-row\"\>
+&lt;button class=&quot;btn active-btn&quot;&gt;
 
-\<button class=\"btn active-btn\"\>
+&lt;svg viewBox=&quot;0 0 24 24&quot;&gt;
 
-\<svg viewBox=\"0 0 24 24\"\>
+&lt;path
 
-\<path
-
-d=\"M2,10.96C1.5,10.68 1.35,10.07 1.63,9.59L3.13,7C3.24,6.8 3.41,6.66
+d=&quot;M2,10.96C1.5,10.68 1.35,10.07 1.63,9.59L3.13,7C3.24,6.8 3.41,6.66
 3.6,6.58L11.43,2.18C11.59,2.06 11.79,2 12,2C12.21,2 12.41,2.06
 12.57,2.18L20.47,6.62C20.66,6.72 20.82,6.88
 20.91,7.08L22.36,9.6C22.64,10.08 22.47,10.69
@@ -3197,90 +3226,91 @@ d=\"M2,10.96C1.5,10.68 1.35,10.07 1.63,9.59L3.13,7C3.24,6.8 3.41,6.66
 2.32,11.14
 2,10.96M12,4.15V4.15L12,10.85V10.85L17.96,7.5L12,4.15M5,15.91L11,19.29V12.58L5,9.21V15.91M19,15.91V12.69L14,15.59C13.67,15.77
 13.3,15.76
-13,15.6V19.29L19,15.91M13.85,13.36L20.13,9.73L19.55,8.72L13.27,12.35L13.85,13.36Z\"
+13,15.6V19.29L19,15.91M13.85,13.36L20.13,9.73L19.55,8.72L13.27,12.35L13.85,13.36Z&quot;
 
-/\>
+/&gt;
 
-\</svg\>
+&lt;/svg&gt;
 
-\</button\>
+&lt;/button&gt;
 
-\<button class=\"btn\"\>
+&lt;button class=&quot;btn&quot;&gt;
 
-\<svg viewBox=\"0 0 24 24\"\>
+&lt;svg viewBox=&quot;0 0 24 24&quot;&gt;
 
-\<path
+&lt;path
 
-d=\"M3,4A2,2 0 0,0 1,6V17H3A3,3 0 0,0 6,20A3,3 0 0,0 9,17H15A3,3 0 0,0
+d=&quot;M3,4A2,2 0 0,0 1,6V17H3A3,3 0 0,0 6,20A3,3 0 0,0 9,17H15A3,3 0 0,0
 18,20A3,3 0 0,0
 21,17H23V12L20,8H17V4M10,6L14,10L10,14V11H4V9H10M17,9.5H19.5L21.47,12H17M6,15.5A1.5,1.5
 0 0,1 7.5,17A1.5,1.5 0 0,1 6,18.5A1.5,1.5 0 0,1 4.5,17A1.5,1.5 0 0,1
 6,15.5M18,15.5A1.5,1.5 0 0,1 19.5,17A1.5,1.5 0 0,1 18,18.5A1.5,1.5 0 0,1
-16.5,17A1.5,1.5 0 0,1 18,15.5Z\"
+16.5,17A1.5,1.5 0 0,1 18,15.5Z&quot;
 
-/\>
+/&gt;
 
-\</svg\>
+&lt;/svg&gt;
 
-\</button\>
+&lt;/button&gt;
 
-\<button class=\"btn\"\>
+&lt;button class=&quot;btn&quot;&gt;
 
-\<svg viewBox=\"0 0 24 24\"\>
+&lt;svg viewBox=&quot;0 0 24 24&quot;&gt;
 
-\<path
+&lt;path
 
-d=\"M11,9H13V7H11M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4
+d=&quot;M11,9H13V7H11M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4
 20,7.59 20,12C20,16.41 16.41,20 12,20M12,2A10,10 0 0,0 2,12A10,10 0 0,0
-12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M11,17H13V11H11V17Z\"
+12,22A10,10 0 0,0 22,12A10,10 0 0,0 12,2M11,17H13V11H11V17Z&quot;
 
-/\>
+/&gt;
 
-\</svg\>
+&lt;/svg&gt;
 
-\</button\>
+&lt;/button&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"card\"\>
-
+&lt;div class=&quot;card&quot;&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-\<h2 class=\"\"\>Delivery\</h2\>
+&lt;h2 class=&quot;&quot;&gt;Delivery&lt;/h2&gt;
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-\<p\>Lorem ipsum dolor, sit amet consectetur adipisicing elit.\</p\>
+<pre>
+&lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit.&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"card hidden-card\"\>
+&lt;div class=&quot;card hidden-card&quot;&gt;
 
-\<h2 class=\"\"\>Shipping\</h2\>
+&lt;h2 class=&quot;&quot;&gt;Shipping&lt;/h2&gt;
 
-\<p\>Lorem ipsum dolor, sit amet consectetur adipisicing elit.\</p\>
+&lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit.&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"card hidden-card\"\>
+&lt;div class=&quot;card hidden-card&quot;&gt;
 
-\<h2 class=\"\"\>Policy\</h2\>
+&lt;h2 class=&quot;&quot;&gt;Policy&lt;/h2&gt;
 
-\<p\>Lorem ipsum dolor, sit amet consectetur adipisicing elit.\</p\>
+&lt;p&gt;Lorem ipsum dolor, sit amet consectetur adipisicing elit.&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<script src=\"index.js\"\>\</script\>
+&lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;
 
-\</body\>
+&lt;/body&gt;
 
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<pre>
 \@import
-\"https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400\";
+&quot;https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400&quot;;
 
 &ast; {
 
@@ -3290,7 +3320,7 @@ margin: 0;
 
 box-sizing: border-box;
 
-font-family: \"Raleway\", sans-serif;
+font-family: &quot;Raleway&quot;, sans-serif;
 
 }
 
@@ -3487,52 +3517,53 @@ transform: translateY(0%);
 }
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-const buttons = document.querySelectorAll(\".btn\");
+const buttons = document.querySelectorAll(&quot;.btn&quot;);
 
-const cards = document.querySelectorAll(\".card\");
+const cards = document.querySelectorAll(&quot;.card&quot;);
 
 function showCard(e, index) {
 
 //adds the hidden-city class to all city element and removes the
 active-btn class from all buttons
 
-for (let i = 0; i \< cards.length; i++) {
+for (let i = 0; i &lt; cards.length; i++) {
 
-cards\[i\].classList.add(\"hidden-card\");
+cards\[i\].classList.add(&quot;hidden-card&quot;);
 
-cards\[i\].classList.remove(\"animate\");
+cards\[i\].classList.remove(&quot;animate&quot;);
 
-buttons\[i\].classList.remove(\"active-btn\");
+buttons\[i\].classList.remove(&quot;active-btn&quot;);
 
 }
 
 //adding the active-btn class to the clicked button
 
-e.target.classList.add(\"active-btn\");
+e.target.classList.add(&quot;active-btn&quot;);
 
 // picking the right card and make it visible
 
-cards\[index\].classList.remove(\"hidden-card\");
+cards\[index\].classList.remove(&quot;hidden-card&quot;);
 
-cards\[index\].classList.add(\"animate\");
+cards\[index\].classList.add(&quot;animate&quot;);
 
 }
 
-buttons.forEach((button, index) =\> {
+buttons.forEach((button, index) =&gt; {
 
-button.addEventListener(\"click\", (e) =\> {
+button.addEventListener(&quot;click&quot;, (e) =&gt; {
 
 showCard(e, index);
 
 });
 
 });
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 2 CSS and JavaScript Slideshow Templates
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -3540,83 +3571,84 @@ Template #1: Slideshow That Progresses Manually
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<!DOCTYPE html\>
+&lt;!DOCTYPE html&gt;
 
-\<html lang=\"en\"\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<head\>
+&lt;head&gt;
 
-\<link rel=\"stylesheet\" href=\"style.css\" /\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
 
-\</head\>
+&lt;/head&gt;
 
-\<body\>
+&lt;body&gt;
 
-\<div class=\"carousel\"\>
+&lt;div class=&quot;carousel&quot;&gt;
 
-\<!\-- Photo 1 \--\>
+&lt;!\-- Photo 1 \--&gt;
 
-\<div class=\"card\"\>
+&lt;div class=&quot;card&quot;&gt;
 
-\<img src=\"./img/1.jpeg\" alt=\"New York\" class=\"\" /\>
+&lt;img src=&quot;./img/1.jpeg&quot; alt=&quot;New York&quot; class=&quot;&quot; /&gt;
 
-\<p\>1/4\</p\>
+&lt;p&gt;1/4&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<!\-- Photo 2 \--\>
+&lt;!\-- Photo 2 \--&gt;
 
-\<div class=\"card hidden-card\"\>
+&lt;div class=&quot;card hidden-card&quot;&gt;
 
-\<img src=\"./img/2.jpeg\" alt=\"New York\" class=\"\" /\>
+&lt;img src=&quot;./img/2.jpeg&quot; alt=&quot;New York&quot; class=&quot;&quot; /&gt;
 
-\<p\>2/4\</p\>
+&lt;p&gt;2/4&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<!\-- Photo 3 \--\>
+&lt;!\-- Photo 3 \--&gt;
 
-\<div class=\"card hidden-card\"\>
+&lt;div class=&quot;card hidden-card&quot;&gt;
 
-\<img src=\"./img/3.jpeg\" alt=\"New York\" class=\"\" /\>
+&lt;img src=&quot;./img/3.jpeg&quot; alt=&quot;New York&quot; class=&quot;&quot; /&gt;
 
-\<p\>3/4\</p\>
+&lt;p&gt;3/4&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<!\-- Photo 4 \--\>
+&lt;!\-- Photo 4 \--&gt;
 
-\<div class=\"card hidden-card\"\>
+&lt;div class=&quot;card hidden-card&quot;&gt;
 
-\<img src=\"./img/4.jpeg\" alt=\"New York\" class=\"\" /\>
+&lt;img src=&quot;./img/4.jpeg&quot; alt=&quot;New York&quot; class=&quot;&quot; /&gt;
 
-\<p\>4/4\</p\>
+&lt;p&gt;4/4&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"navigation\"\>
+&lt;div class=&quot;navigation&quot;&gt;
 
-\<button class=\"prev nav-btn\"\>\<\</button\>
+&lt;button class=&quot;prev nav-btn&quot;&gt;&lt;&lt;/button&gt;
 
-\<button class=\"next nav-btn\"\>\>\</button\>
+&lt;button class=&quot;next nav-btn&quot;&gt;&gt;&lt;/button&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</body\>
+&lt;/body&gt;
 
-\<script src=\"index.js\"\>\</script\>
+&lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;
 
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-
+<pre>
 \@import
-url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap\");
+url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap&quot;);
 
 &ast; {
 
@@ -3626,7 +3658,7 @@ margin: 0;
 
 box-sizing: border-box;
 
-font-family: \"DynaPuff\", cursive, sans-serif;
+font-family: &quot;DynaPuff&quot;, cursive, sans-serif;
 
 }
 
@@ -3785,36 +3817,37 @@ box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.4);
 background: white;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-const prev = document.querySelector(\".prev\");
+const prev = document.querySelector(&quot;.prev&quot;);
 
-const next = document.querySelector(\".next\");
+const next = document.querySelector(&quot;.next&quot;);
 
-const images = document.querySelectorAll(\".card\");
+const images = document.querySelectorAll(&quot;.card&quot;);
 
 const totalImages = images.length;
 
 let index = 0;
 
-prev.addEventListener(\"click\", () =\> {
+prev.addEventListener(&quot;click&quot;, () =&gt; {
 
-nextImage(\"prev\");
+nextImage(&quot;prev&quot;);
 
 });
 
-next.addEventListener(\"click\", () =\> {
+next.addEventListener(&quot;click&quot;, () =&gt; {
 
-nextImage(\"next\");
+nextImage(&quot;next&quot;);
 
 });
 
 function nextImage(direction) {
 
-if (direction === \"next\") {
+if (direction === &quot;next&quot;) {
 
 index++;
 
@@ -3824,7 +3857,7 @@ index = 0;
 
 }
 
-} else if (direction === \"prev\") {
+} else if (direction === &quot;prev&quot;) {
 
 if (index == 0) {
 
@@ -3838,100 +3871,102 @@ index\--;
 
 }
 
-for (let i = 0; i \< images.length; i++) {
+for (let i = 0; i &lt; images.length; i++) {
 
-images\[i\].classList.add(\"hidden-card\");
-
-}
-
-images\[index\].classList.remove(\"hidden-card\");
+images\[i\].classList.add(&quot;hidden-card&quot;);
 
 }
 
+images\[index\].classList.remove(&quot;hidden-card&quot;);
+
+}
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #2: Slideshow That Progresses Automatically
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<!DOCTYPE html\>
+&lt;!DOCTYPE html&gt;
 
-\<html lang=\"en\"\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<head\>
+&lt;head&gt;
 
-\<title\>Document\</title\>
+&lt;title&gt;Document&lt;/title&gt;
 
-\<link rel=\"stylesheet\" href=\"style.css\" /\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;style.css&quot; /&gt;
 
-\</head\>
+&lt;/head&gt;
 
-\<body\>
+&lt;body&gt;
 
-\<div class=\"carousel\"\>
+&lt;div class=&quot;carousel&quot;&gt;
 
-\<!\-- Photo 1 \--\>
+&lt;!\-- Photo 1 \--&gt;
 
-\<div class=\"card\"\>
+&lt;div class=&quot;card&quot;&gt;
 
-\<img src=\"./img/1.jpeg\" alt=\"New York\" class=\"\" /\>
+&lt;img src=&quot;./img/1.jpeg&quot; alt=&quot;New York&quot; class=&quot;&quot; /&gt;
 
-\<p\>1/4\</p\>
+&lt;p&gt;1/4&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<!\-- Photo 2 \--\>
+&lt;!\-- Photo 2 \--&gt;
 
-\<div class=\"card hidden-card\"\>
+&lt;div class=&quot;card hidden-card&quot;&gt;
 
-\<img src=\"./img/2.jpeg\" alt=\"New York\" class=\"\" /\>
+&lt;img src=&quot;./img/2.jpeg&quot; alt=&quot;New York&quot; class=&quot;&quot; /&gt;
 
-\<p\>2/4\</p\>
+&lt;p&gt;2/4&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<!\-- Photo 3 \--\>
+&lt;!\-- Photo 3 \--&gt;
 
-\<div class=\"card hidden-card\"\>
+&lt;div class=&quot;card hidden-card&quot;&gt;
 
-\<img src=\"./img/3.jpeg\" alt=\"New York\" class=\"\" /\>
+&lt;img src=&quot;./img/3.jpeg&quot; alt=&quot;New York&quot; class=&quot;&quot; /&gt;
 
-\<p\>3/4\</p\>
+&lt;p&gt;3/4&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<!\-- Photo 4 \--\>
+&lt;!\-- Photo 4 \--&gt;
 
-\<div class=\"card hidden-card\"\>
+&lt;div class=&quot;card hidden-card&quot;&gt;
 
-\<img src=\"./img/4.jpeg\" alt=\"New York\" class=\"\" /\>
+&lt;img src=&quot;./img/4.jpeg&quot; alt=&quot;New York&quot; class=&quot;&quot; /&gt;
 
-\<p\>4/4\</p\>
+&lt;p&gt;4/4&lt;/p&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"navigation\"\>
+&lt;div class=&quot;navigation&quot;&gt;
 
-\<button class=\"prev nav-btn\"\>\<\</button\>
+&lt;button class=&quot;prev nav-btn&quot;&gt;&lt;&lt;/button&gt;
 
-\<button class=\"next nav-btn\"\>\>\</button\>
+&lt;button class=&quot;next nav-btn&quot;&gt;&gt;&lt;/button&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</body\>
+&lt;/body&gt;
 
-\<script src=\"index.js\"\>\</script\>
+&lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;
 
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 \@import
-url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap\");
+url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap&quot;);
 
 &ast; {
 
@@ -3941,7 +3976,7 @@ margin: 0;
 
 box-sizing: border-box;
 
-font-family: \"DynaPuff\", cursive, sans-serif;
+font-family: &quot;DynaPuff&quot;, cursive, sans-serif;
 
 }
 
@@ -4100,36 +4135,37 @@ box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.4);
 background: white;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### The JavaScript
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-const prev = document.querySelector(\".prev\");
+const prev = document.querySelector(&quot;.prev&quot;);
 
-const next = document.querySelector(\".next\");
+const next = document.querySelector(&quot;.next&quot;);
 
-const images = document.querySelectorAll(\".card\");
+const images = document.querySelectorAll(&quot;.card&quot;);
 
 const totalImages = images.length;
 
 let index = 0;
 
-prev.addEventListener(\"click\", () =\> {
+prev.addEventListener(&quot;click&quot;, () =&gt; {
 
-nextImage(\"prev\");
+nextImage(&quot;prev&quot;);
 
 });
 
-next.addEventListener(\"click\", () =\> {
+next.addEventListener(&quot;click&quot;, () =&gt; {
 
-nextImage(\"next\");
+nextImage(&quot;next&quot;);
 
 });
 
 function nextImage(direction) {
 
-if (direction === \"next\") {
+if (direction === &quot;next&quot;) {
 
 index++;
 
@@ -4139,7 +4175,7 @@ index = 0;
 
 }
 
-} else if (direction === \"prev\") {
+} else if (direction === &quot;prev&quot;) {
 
 if (index == 0) {
 
@@ -4153,22 +4189,22 @@ index\--;
 
 }
 
-for (let i = 0; i \< images.length; i++) {
+for (let i = 0; i &lt; images.length; i++) {
 
-images\[i\].classList.add(\"hidden-card\");
-
-}
-
-images\[index\].classList.remove(\"hidden-card\");
+images\[i\].classList.add(&quot;hidden-card&quot;);
 
 }
 
-setInterval(() =\> {
+images\[index\].classList.remove(&quot;hidden-card&quot;);
 
-nextImage(\"next\");
+}
+
+setInterval(() =&gt; {
+
+nextImage(&quot;next&quot;);
 
 }, 5000);
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 3 JavaScript onClick with CSS Templates
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -4176,41 +4212,42 @@ nextImage(\"next\");
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
+&lt;!DOCTYPE html&gt;
 
-\<!DOCTYPE html\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<html lang=\"en\"\>
+&lt;head&gt;
 
-\<head\>
+&lt;title&gt;Document&lt;/title&gt;
 
-\<title\>Document\</title\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot; /&gt;
 
-\<link rel=\"stylesheet\" href=\"styles.css\" /\>
+&lt;/head&gt;
 
-\</head\>
+&lt;body&gt;
 
-\<body\>
+&lt;div class=&quot;container hidden-container&quot;&gt;
 
-\<div class=\"container hidden-container\"\>
+&lt;img src=&quot;./honolulu.jpeg&quot; alt=&quot;Honolulu&quot; class=&quot;img&quot; /&gt;
 
-\<img src=\"./honolulu.jpeg\" alt=\"Honolulu\" class=\"img\" /\>
+&lt;button class=&quot;fixed-btn&quot;&gt;Toggle image&lt;/button&gt;
 
-\<button class=\"fixed-btn\"\>Toggle image\</button\>
+&lt;/div&gt;
 
-\</div\>
+&lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;
 
-\<script src=\"index.js\"\>\</script\>
+&lt;/body&gt;
 
-\</body\>
-
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 \@import
-url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400\");
+url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400&quot;);
 
 &ast; {
 
@@ -4220,7 +4257,7 @@ margin: 0;
 
 box-sizing: border-box;
 
-font-family: \"DynaPuff\", cursive, sans-serif;
+font-family: &quot;DynaPuff&quot;, cursive, sans-serif;
 
 }
 
@@ -4303,61 +4340,62 @@ visibility: hidden;
 transition: all 400ms ease;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
+const toggleBtn = document.querySelector(&quot;.fixed-btn&quot;);
 
-const toggleBtn = document.querySelector(\".fixed-btn\");
+const hiddenImage = document.querySelector(&quot;.hidden-container img&quot;);
 
-const hiddenImage = document.querySelector(\".hidden-container img\");
+toggleBtn.addEventListener(&quot;click&quot;, (e) =&gt; {
 
-toggleBtn.addEventListener(\"click\", (e) =\> {
-
-hiddenImage.classList.toggle(\"hidden\");
+hiddenImage.classList.toggle(&quot;hidden&quot;);
 
 });
+</pre>
 
 Template #2: Update a Field
-
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
+&lt;!DOCTYPE html&gt;
 
-\<!DOCTYPE html\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<html lang=\"en\"\>
+&lt;head&gt;
 
-\<head\>
+&lt;title&gt;Document&lt;/title&gt;
 
-\<title\>Document\</title\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot; /&gt;
 
-\<link rel=\"stylesheet\" href=\"styles.css\" /\>
+&lt;/head&gt;
 
-\</head\>
+&lt;body&gt;
 
-\<body\>
+&lt;div class=&quot;container&quot;&gt;
 
-\<div class=\"container\"\>
+&lt;textarea id=&quot;text-area&quot; cols=&quot;50&quot; rows=&quot;20&quot;&gt; &lt;/textarea&gt;
 
-\<textarea id=\"text-area\" cols=\"50\" rows=\"20\"\> \</textarea\>
+&lt;button class=&quot;fill-btn&quot;&gt;Fill text&lt;/button&gt;
 
-\<button class=\"fill-btn\"\>Fill text\</button\>
+&lt;/div&gt;
 
-\</div\>
+&lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;
 
-\<script src=\"index.js\"\>\</script\>
+&lt;/body&gt;
 
-\</body\>
-
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 \@import
-url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400\");
+url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400&quot;);
 
 &ast; {
 
@@ -4367,7 +4405,7 @@ margin: 0;
 
 box-sizing: border-box;
 
-font-family: \"DynaPuff\", cursive, sans-serif;
+font-family: &quot;DynaPuff&quot;, cursive, sans-serif;
 
 }
 
@@ -4434,65 +4472,68 @@ line-height: 2rem;
 letter-spacing: 0.1rem;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-const fillBtn = document.querySelector(\".fill-btn\");
+const fillBtn = document.querySelector(&quot;.fill-btn&quot;);
 
-const textarea = document.getElementById(\"text-area\");
+const textarea = document.getElementById(&quot;text-area&quot;);
 
-fillBtn.addEventListener(\"click\", () =\> {
+fillBtn.addEventListener(&quot;click&quot;, () =&gt; {
 
 textarea.innerHTML =
 
-\"Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam hic a
+&quot;Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam hic a
 vel perspiciatis asperiores, repudiandae rem nemo velit doloribus odit
 fugit, sed recusandae, minus voluptatem possimus autem molestias non
 aperiam\\n\\nLorem ipsum dolor sit amet consectetur adipisicing elit.
-Magnam hic a vel perspiciatis asperiores\";
+Magnam hic a vel perspiciatis asperiores&quot;;
 
 });
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #3: Change Colors or Other Visual Effects
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-\<!DOCTYPE html\>
+&lt;!DOCTYPE html&gt;
 
-\<html lang=\"en\"\>
+&lt;html lang=&quot;en&quot;&gt;
 
-\<head\>
+&lt;head&gt;
 
-\<title\>Document\</title\>
+&lt;title&gt;Document&lt;/title&gt;
 
-\<link rel=\"stylesheet\" href=\"styles.css\" /\>
+&lt;link rel=&quot;stylesheet&quot; href=&quot;styles.css&quot; /&gt;
 
-\</head\>
+&lt;/head&gt;
 
-\<body\>
+&lt;body&gt;
 
-\<div class=\"container bg-container\"\>
+&lt;div class=&quot;container bg-container&quot;&gt;
 
-\<button class=\"fixed-btn\"\>New Color!\</button\>
+&lt;button class=&quot;fixed-btn&quot;&gt;New Color!&lt;/button&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<script src=\"index.js\"\>\</script\>
+&lt;script src=&quot;index.js&quot;&gt;&lt;/script&gt;
 
-\</body\>
+&lt;/body&gt;
 
-\</html\>
-
+&lt;/html&gt;
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
 \@import
-url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400\");
+url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400&quot;);
 
 &ast; {
 
@@ -4502,7 +4543,7 @@ margin: 0;
 
 box-sizing: border-box;
 
-font-family: \"DynaPuff\", cursive, sans-serif;
+font-family: &quot;DynaPuff&quot;, cursive, sans-serif;
 
 }
 
@@ -4561,36 +4602,37 @@ transform: translate(-50%);
 background-color: #4343f5;
 
 }
-
+</pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<pre>
 
-const toggleBtn = document.querySelector(\".bg-container .fixed-btn\");
+const toggleBtn = document.querySelector(&quot;.bg-container .fixed-btn&quot;);
 
-const container = document.querySelector(\".bg-container\");
+const container = document.querySelector(&quot;.bg-container&quot;);
 
 const colors = \[
 
-\"#cdb4db\",
+&quot;#cdb4db&quot;,
 
-\"#ffc8dd\",
+&quot;#ffc8dd&quot;,
 
-\"#ffafcc\",
+&quot;#ffafcc&quot;,
 
-\"#bde0fe\",
+&quot;#bde0fe&quot;,
 
-\"#a2d2ff\",
+&quot;#a2d2ff&quot;,
 
-\"#00b4d8\",
+&quot;#00b4d8&quot;,
 
-\"#6f2dbd\",
+&quot;#6f2dbd&quot;,
 
-\"#f27059\",
+&quot;#f27059&quot;,
 
 \];
 
-toggleBtn.addEventListener(\"click\", (e) =\> {
+toggleBtn.addEventListener(&quot;click&quot;, (e) =&gt; {
 
 e.preventDefault();
 
@@ -4602,24 +4644,24 @@ colors\[Math.floor(Math.random() &ast; colors.length)\];
 
 []{#mbneroay4a95 .anchor}HTML Video & Audio Templates
 
-\<!\-- Basic video element \--\>
+&lt;!\-- Basic video element \--&gt;
 
-\<video src=\"./media/example-video.mp4\"\>\</video\>
+&lt;video src=&quot;./media/example-video.mp4&quot;&gt;&lt;/video&gt;
 
-\<!\-- Features standard controls to user \--\>
+&lt;!\-- Features standard controls to user \--&gt;
 
-\<video controls src=\"./media/example-video.mp4\"\>\</video\>
+&lt;video controls src=&quot;./media/example-video.mp4&quot;&gt;&lt;/video&gt;
 
-\<!\-- Width and height in pixels \--\>
+&lt;!\-- Width and height in pixels \--&gt;
 
-\<video width=\"500\" height=\"500\"
-src=\"./media/example-video.mp4\"\>\</video\>
+&lt;video width=&quot;500&quot; height=&quot;500&quot;
+src=&quot;./media/example-video.mp4&quot;&gt;&lt;/video&gt;
 
-\<!\-- Autoplay video \--\>
+&lt;!\-- Autoplay video \--&gt;
 
-\<video autoplay src=\"./media/example-video.mp4\"\>\</video\>
+&lt;video autoplay src=&quot;./media/example-video.mp4&quot;&gt;&lt;/video&gt;
 
-\<style\>
+&lt;style&gt;
 
 /&ast; Stylized video element &ast;/
 
@@ -4631,13 +4673,13 @@ border-color: red;
 
 }
 
-\</style\>
+&lt;/style&gt;
 
-\<!\-- Audio element with controls \--\>
+&lt;!\-- Audio element with controls \--&gt;
 
-\<audio controls src=\"./media/example-audio.mp3\"\>\</audio\>
+&lt;audio controls src=&quot;./media/example-audio.mp3&quot;&gt;&lt;/audio&gt;
 
-\<style\>
+&lt;style&gt;
 
 /&ast; Stylized audio element. Note: Only applicable if controls are
 visible &ast;/
@@ -4650,7 +4692,7 @@ border-radius: green;
 
 }
 
-\</style\>
+&lt;/style&gt;
 
 CSS Background Template
 
@@ -4675,7 +4717,7 @@ background: red;
 
 body {
 
-background: url(\"./images/image.png\");
+background: url(&quot;./images/image.png&quot;);
 
 }
 
@@ -4705,7 +4747,7 @@ opacity: 0.5; /&ast; 50% opacity &ast;/
 
 body {
 
-background: center url(\"./images/image.png\");
+background: center url(&quot;./images/image.png&quot;);
 
 }
 
@@ -4713,7 +4755,7 @@ background: center url(\"./images/image.png\");
 
 body {
 
-background: repeat-x url(\"./images/image.png\");
+background: repeat-x url(&quot;./images/image.png&quot;);
 
 }
 
@@ -4721,7 +4763,7 @@ background: repeat-x url(\"./images/image.png\");
 
 body {
 
-background: no-repeat url(\"./images/image.png\");
+background: no-repeat url(&quot;./images/image.png&quot;);
 
 }
 
@@ -4793,31 +4835,31 @@ background-blend-mode: color-burn;
 
 []{#glidakkzttia .anchor}CSS Gradient Templates
 
-\<div class=\"container\"\>
+&lt;div class=&quot;container&quot;&gt;
 
-\<div class=\"square left-gradient\"\>\</div\>
+&lt;div class=&quot;square left-gradient&quot;&gt;&lt;/div&gt;
 
-\<div class=\"square right-gradient\"\>\</div\>
+&lt;div class=&quot;square right-gradient&quot;&gt;&lt;/div&gt;
 
-\<div class=\"square diagonal-gradient\"\>\</div\>
+&lt;div class=&quot;square diagonal-gradient&quot;&gt;&lt;/div&gt;
 
-\<div class=\"square angled-gradient\"\>\</div\>
+&lt;div class=&quot;square angled-gradient&quot;&gt;&lt;/div&gt;
 
-\<div class=\"square rainbow-gradient\"\>\</div\>
+&lt;div class=&quot;square rainbow-gradient&quot;&gt;&lt;/div&gt;
 
-\<div class=\"square transparent-gradient\"\>\</div\>
+&lt;div class=&quot;square transparent-gradient&quot;&gt;&lt;/div&gt;
 
-\<div class=\"square repeating-gradient\"\>\</div\>
+&lt;div class=&quot;square repeating-gradient&quot;&gt;&lt;/div&gt;
 
-\<div class=\"square conic-gradient\"\>\</div\>
+&lt;div class=&quot;square conic-gradient&quot;&gt;&lt;/div&gt;
 
-\<div class=\"square radial-gradient\"\>\</div\>
+&lt;div class=&quot;square radial-gradient&quot;&gt;&lt;/div&gt;
 
-\<div class=\"square multiple-gradient\"\>\</div\>
+&lt;div class=&quot;square multiple-gradient&quot;&gt;&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<style\>
+&lt;style&gt;
 
 .left-gradient {
 
@@ -4901,34 +4943,15 @@ brown);
 
 }
 
-\</style\>
+&lt;/style&gt;
 
 []{#s2ijn6yz6ci5 .anchor}
 
 CSS overflow templates
 
-\<div class=\"container\"\>
+&lt;div class=&quot;container&quot;&gt;
 
-\<div class=\"square hidden-overflow\"\>
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam,
-
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-esse
-
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non
-
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-\</div\>
-
-\<div class=\"square scroll-overflow\"\>
+&lt;div class=&quot;square hidden-overflow&quot;&gt;
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 
@@ -4945,28 +4968,9 @@ cupidatat non
 
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"square auto-overflow\"\>
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam,
-
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit
-esse
-
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-cupidatat non
-
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-\</div\>
-
-\<div class=\"square visible-overflow\"\>
+&lt;div class=&quot;square scroll-overflow&quot;&gt;
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 
@@ -4983,87 +4987,125 @@ cupidatat non
 
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"square visible-overflow-x\"\>
+&lt;div class=&quot;square auto-overflow&quot;&gt;
 
-\<ol\>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 
-\<li\>John\</li\>
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam,
 
-\<li\>Doe\</li\>
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 
-\<li\>Mike\</li\>
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+esse
 
-\<li\>Gee\</li\>
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+cupidatat non
 
-\<li\>Stella\</li\>
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\<li\>Jane\</li\>
+&lt;/div&gt;
 
-\<li\>Mary\</li\>
+&lt;div class=&quot;square visible-overflow&quot;&gt;
 
-\<li\>Lawrence\</li\>
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 
-\<li\>Nancy\</li\>
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam,
 
-\<li\>Kennedy\</li\>
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 
-\<li\>Stanely\</li\>
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit
+esse
 
-\</ol\>
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
+cupidatat non
 
-\</div\>
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\<div class=\"square hidden-overflow-y\"\>
+&lt;/div&gt;
 
-\<ol\>
+&lt;div class=&quot;square visible-overflow-x&quot;&gt;
 
-\<li\>John\</li\>
+&lt;ol&gt;
 
-\<li\>Doe\</li\>
+&lt;li&gt;John&lt;/li&gt;
 
-\<li\>Mike\</li\>
+&lt;li&gt;Doe&lt;/li&gt;
 
-\<li\>Gee\</li\>
+&lt;li&gt;Mike&lt;/li&gt;
 
-\<li\>Stella\</li\>
+&lt;li&gt;Gee&lt;/li&gt;
 
-\<li\>Jane\</li\>
+&lt;li&gt;Stella&lt;/li&gt;
 
-\<li\>Mary\</li\>
+&lt;li&gt;Jane&lt;/li&gt;
 
-\<li\>Lawrence\</li\>
+&lt;li&gt;Mary&lt;/li&gt;
 
-\<li\>Nancy\</li\>
+&lt;li&gt;Lawrence&lt;/li&gt;
 
-\<li\>Kennedy\</li\>
+&lt;li&gt;Nancy&lt;/li&gt;
 
-\<li\>Stanely\</li\>
+&lt;li&gt;Kennedy&lt;/li&gt;
 
-\</ol\>
+&lt;li&gt;Stanely&lt;/li&gt;
 
-\</div\>
+&lt;/ol&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"container\" style=\"margin-top: 10%\"\>
+&lt;div class=&quot;square hidden-overflow-y&quot;&gt;
 
-\<div class=\"rectangle overflow-wrap-normal\"\>
+&lt;ol&gt;
+
+&lt;li&gt;John&lt;/li&gt;
+
+&lt;li&gt;Doe&lt;/li&gt;
+
+&lt;li&gt;Mike&lt;/li&gt;
+
+&lt;li&gt;Gee&lt;/li&gt;
+
+&lt;li&gt;Stella&lt;/li&gt;
+
+&lt;li&gt;Jane&lt;/li&gt;
+
+&lt;li&gt;Mary&lt;/li&gt;
+
+&lt;li&gt;Lawrence&lt;/li&gt;
+
+&lt;li&gt;Nancy&lt;/li&gt;
+
+&lt;li&gt;Kennedy&lt;/li&gt;
+
+&lt;li&gt;Stanely&lt;/li&gt;
+
+&lt;/ol&gt;
+
+&lt;/div&gt;
+
+&lt;/div&gt;
+
+&lt;div class=&quot;container&quot; style=&quot;margin-top: 10%&quot;&gt;
+
+&lt;div class=&quot;rectangle overflow-wrap-normal&quot;&gt;
 
 This is the longest English word,
 Pneumonoultramicroscopicsilicovolcanoconiosis
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"rectangle overflow-wrap-break\"\>
+&lt;div class=&quot;rectangle overflow-wrap-break&quot;&gt;
 
 This is the longest English word,
 Pneumonoultramicroscopicsilicovolcanoconiosis
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"rectangle-max-height visible-overflow-x\"\>
+&lt;div class=&quot;rectangle-max-height visible-overflow-x&quot;&gt;
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 
@@ -5080,18 +5122,18 @@ cupidatat non
 
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-\</div\>
+&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\<div class=\"rectangle-max-width visible-overflow\"\>
+&lt;div class=&quot;rectangle-max-width visible-overflow&quot;&gt;
 
 This is the longest English word,
 Pneumonoultramicroscopicsilicovolcanoconiosis
 
-\</div\>
+&lt;/div&gt;
 
-\<style type=\"text/css\"\>
+&lt;style type=&quot;text/css&quot;&gt;
 
 /&ast; visible overflow &ast;/
 
@@ -5219,35 +5261,35 @@ overflow-wrap: break-word;
 
 }
 
-\</style\>
+&lt;/style&gt;
 
 []{#5raj5iklwqr1 .anchor}CSS Animation Template
 
-\<html\>
+&lt;html&gt;
 
-\<body\>
+&lt;body&gt;
 
-\<div class=\"container\"\>
+&lt;div class=&quot;container&quot;&gt;
 
-\<!\-- Example 1: Changing Color \--\>
+&lt;!\-- Example 1: Changing Color \--&gt;
 
-\<div class=\"green-square green-red-alternate\"\>\</div\>
+&lt;div class=&quot;green-square green-red-alternate&quot;&gt;&lt;/div&gt;
 
-\<!\-- Example 2: Moving across the screen \--\>
+&lt;!\-- Example 2: Moving across the screen \--&gt;
 
-\<div class=\"black-circle vertical-alternate-fast\"\>\</div\>
+&lt;div class=&quot;black-circle vertical-alternate-fast&quot;&gt;&lt;/div&gt;
 
-\<!\-- Example 3: On hover, changing color\--\>
+&lt;!\-- Example 3: On hover, changing color\--&gt;
 
-\<div class=\"green-rounded-square color-transition\"\>\</div\>
+&lt;div class=&quot;green-rounded-square color-transition&quot;&gt;&lt;/div&gt;
 
-\</div\>
+&lt;/div&gt;
 
-\</body\>
+&lt;/body&gt;
 
-\</html\>
+&lt;/html&gt;
 
-\<style\>
+&lt;style&gt;
 
 .container {
 
