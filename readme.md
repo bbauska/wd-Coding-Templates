@@ -18,16 +18,18 @@
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>How to Use This Template</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<p>Copy and paste these code templates into your CMS for the desired product on your 
-website.</p>
+<p>Copy and paste these code templates into your CMS for the desired product on your website.</p>
+
 <blockquote>
 Remember that you can adjust these to suit your needs. These templates are designed to be 
 completely customizable.
 </blockquote>
-<p>As such, if you need to make any adjustments to these code snippets for
-a more optimized site, you're encouraged to do so.</p>
+
+<p>As such, if you need to make any adjustments to these code snippets for a more optimized site, 
+you're encouraged to do so.</p>
 
 <p>Jump to a Template</p>
+
 <table>
   <tr>
     <td><a href="#nav-menu-breadcrumbs">Navigation Menus &amp; Breadcrumbs Templates (4 ex's)</a></td>
@@ -62,7 +64,7 @@ a more optimized site, you're encouraged to do so.</p>
 	<td><a href="#css-animation">CSS Animation Template (1 example)</a></td>
   </tr>
 </table>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="nav-menu-breadcrumbs">Example #1 of 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 02. example #1 of 4 navigation menu templates ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -74,7 +76,9 @@ a more optimized site, you're encouraged to do so.</p>
   style="width:75%;" />
 </p>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<div class=\"container\"\>
 \<nav\>
@@ -87,7 +91,9 @@ a more optimized site, you're encouraged to do so.</p>
 \</nav\>
 \</div\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 .bar {
   background-color: rgb(245, 193, 97);
@@ -120,6 +126,7 @@ a more optimized site, you're encouraged to do so.</p>
 }
 </pre>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Examples #2 of 4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <!--~~~~~~~~~~~~~~~~~~~~~ 03. example #2 of 4 navigation menu templates ~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -130,8 +137,9 @@ a more optimized site, you're encouraged to do so.</p>
   alt="Example 2 of 4; Navigation Menus &amp; Breadcrumbs Templates."
   style="width:25%;" />
 </p>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<div class=\"container\"\>
 \<nav\>
@@ -144,7 +152,9 @@ a more optimized site, you're encouraged to do so.</p>
 \</nav\>
 \</div\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 .bar {
   background-color: rgb(245, 193, 97);
@@ -178,6 +188,7 @@ a more optimized site, you're encouraged to do so.</p>
 }
 </pre>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Third example of 4</h2>
 <!--  ![](./images/image004.png){width="5.947916666666667in" height="1.09375in"}  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -189,7 +200,9 @@ a more optimized site, you're encouraged to do so.</p>
   alt="Example 3 of 4; Navigation Menus &amp; Breadcrumbs Templates."
   style="width:50%;" />
 </p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<div class=\"container\"\>
 \<nav\>
@@ -214,7 +227,9 @@ a more optimized site, you're encouraged to do so.</p>
 \</nav\>
 \</div\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &ast; {
   box-sizing: border-box;
@@ -261,7 +276,7 @@ a more optimized site, you're encouraged to do so.</p>
   display: block;
 }
 </pre>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Fourth example of 4</h2>
 <!--  ![](./myImages/media/image5.png){width="6.5in" height="0.5833333333333334in"}  -->
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
@@ -273,7 +288,9 @@ a more optimized site, you're encouraged to do so.</p>
   alt="Example 4 of 4; Navigation Menus &amp; Breadcrumbs Templates."
   style="width:75%;" />
 </p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<div class=\"container\"\>
 \<ul class=\"breadcrumb\"\>
@@ -287,7 +304,9 @@ a more optimized site, you're encouraged to do so.</p>
 \</ul\>
 \</div\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The CSS</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 .breadcrumb {
   list-style: none;
@@ -316,13 +335,12 @@ a more optimized site, you're encouraged to do so.</p>
   color: rgb(176, 115, 0);
 }
 </pre>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="button-transition">3 Button Transition Templates</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>Example #1 of 3</h2>
-
-![](./myImages/media/image6.png){width="6.5in"
-height="1.5138888888888888in"}
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+![](./myImages/media/image6.png){width="6.5in" height="1.5138888888888888in"}
 
 ## The HTML
 
@@ -358,17 +376,23 @@ box-shadow: 10px 10px 0 rgb(219, 219, 219);
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #2
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image7.png){width="2.557292213473316in"
 height="1.1195516185476815in"}![](./myImages/media/image8.png){width="4.078125546806649in"
 height="1.9507917760279965in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<button class=\"second\"\>Click me\</button\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 .second {
 
@@ -410,18 +434,22 @@ box-shadow: 5px 5px 10px rgb(119, 119, 119);
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #3
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image9.png){width="2.0833333333333335in"
 height="0.53125in"}![](./myImages/media/image10.png){width="2.2604166666666665in"
 height="0.7291666666666666in"}![](./myImages/media/image11.png){width="1.8854166666666667in"
 height="0.6354166666666666in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 \<button class=\"third\"\>Hover over me\</button\>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 .third {
 
@@ -481,16 +509,22 @@ bottom: 0;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 3 Web Form & Search Bar Templates
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 []{#9jhjudypc6m5 .anchor}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #1
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./images/image012.png){width="6.5in"
 height="1.7916666666666667in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<form\>
 
@@ -570,7 +604,9 @@ id=\"worldwide\"
 
 \</form\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 .align-center {
 
@@ -668,12 +704,16 @@ margin: 0 3px 0 10px;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #2
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image13.png){width="6.5in"
 height="4.513888888888889in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<form\>
 
@@ -783,9 +823,11 @@ placeholder=\"Optional\"
 
 \</form\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-\* {
+&ast; {
 
 box-sizing: border-box;
 
@@ -869,12 +911,16 @@ border-radius: 5px;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #2
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image14.png){width="3.7226859142607176in"
 height="5.776042213473316in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<form\>
 
@@ -990,9 +1036,11 @@ height="5.776042213473316in"}
 
 \</form\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-\* {
+&ast; {
 
 box-sizing: border-box;
 
@@ -1082,9 +1130,11 @@ cursor: pointer;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 id="lightbox-modal-element">Lightbox Modal Element Template (1 example)</h2>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>Template</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image15.png){width="5.598958880139983in"
 height="0.7088429571303587in"}
@@ -1095,7 +1145,9 @@ height="3.2331813210848646in"}
 ![](./myImages/media/image17.png){width="5.692708880139983in"
 height="3.270278871391076in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3>The HTML</h3>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<div class=\"images\"\>
 
@@ -1155,7 +1207,7 @@ Close
 
 <h3>The CSS</h3>
 
-\* {
+&ast; {
 
 box-sizing: border-box;
 
@@ -1305,7 +1357,9 @@ opacity: 1;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 const IMAGE0 =
 
@@ -1437,12 +1491,16 @@ modalImages\[prevId\].classList.remove(\"active\")
 
 []{#kdb634vxe28v .anchor}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #1
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image18.png){width="3.5208333333333335in"
 height="1.4479166666666667in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<div class=\"tooltip\"\>
 
@@ -1452,7 +1510,9 @@ height="1.4479166666666667in"}
 
 \</div\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 body {
 
@@ -1524,13 +1584,15 @@ visibility: visible;
 
 }
 
-#  
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #2
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image19.png){width="4.0625in" height="1.03125in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<div class=\"tooltip\"\>
 
@@ -1540,7 +1602,9 @@ visibility: visible;
 
 \</div\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 .tooltip {
 
@@ -1604,14 +1668,16 @@ visibility: visible;
 
 }
 
-#  
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #3
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image20.png){width="3.2916666666666665in"
 height="1.4583333333333333in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<div class=\"tooltip\"\>
 
@@ -1622,7 +1688,9 @@ height="1.4583333333333333in"}
 
 \</div\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 .tooltip {
 
@@ -1688,14 +1756,16 @@ visibility: visible;
 
 }
 
-#  
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #4
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image21.png){width="3.6041666666666665in"
 height="0.9166666666666666in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<div class=\"tooltip\"\>
 
@@ -1775,19 +1845,21 @@ visibility: visible;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 2 Progress Bar Templates
-
-# 
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #1
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## ![](./myImages/media/image22.png){width="5.375in" height="0.875in"}
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<progress class=\"first\" value=\"50\" max=\"100\"\>\</progress\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 .first {
 
@@ -1813,11 +1885,11 @@ background-color: purple;
 
 }
 
-#  
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #2
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<progress class=\"second\" value=\"40\" max=\"100\"\>\</progress\>
 
@@ -1828,7 +1900,9 @@ height="0.7395833333333334in"}
 
 ![](./myImages/media/image24.png){width="5.0in" height="0.78125in"}
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 .second {
 
@@ -1872,11 +1946,13 @@ border-radius: 15px;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 2 CSS Accordian Templates
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #1: Accordion Using Only CSS and HTML
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -1966,7 +2042,9 @@ tempore itaque quas excepturi.
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \@import
 \"https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400\";
@@ -2005,7 +2083,7 @@ z-index: -1;
 
 }
 
-/\* Accordion styles \*/
+/&ast; Accordion styles &ast;/
 
 .accordion {
 
@@ -2131,9 +2209,11 @@ padding: 1rem;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Example #2: Accordion Using CSS and HTML and JavaScript
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -2225,7 +2305,9 @@ tempore itaque quas excepturi.
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \@import
 \"https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400\";
@@ -2266,7 +2348,7 @@ z-index: -1;
 
 }
 
-/\* Accordion styles \*/
+/&ast; Accordion styles &ast;/
 
 .accordion {
 
@@ -2378,7 +2460,9 @@ padding: 1rem;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 const accordions = document.getElementsByClassName(\"tab\");
 
@@ -2394,13 +2478,17 @@ accordion.classList.toggle(\"open-tab\");
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 4 CSS Effects Templates
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 []{#qjxam0b6i3lz .anchor}
 
 Template #1: Opacity
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -2437,13 +2525,15 @@ class=\"translucent\"
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-\*,
+&ast;,
 
-\*::after,
+&ast;::after,
 
-\*::before {
+&ast;::before {
 
 margin: 0;
 
@@ -2503,11 +2593,11 @@ filter: opacity(35%);
 
 }
 
-#  
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #2: Grayscale
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -2544,13 +2634,15 @@ class=\"black-white\"
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-\*,
+&ast;,
 
-\*::after,
+&ast;::after,
 
-\*::before {
+&ast;::before {
 
 margin: 0;
 
@@ -2610,9 +2702,9 @@ filter: grayscale(100%);
 
 }
 
-#  
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #3: Sepia
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -2649,13 +2741,15 @@ class=\"nineties-effect\"
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-\*,
+&ast;,
 
-\*::after,
+&ast;::after,
 
-\*::before {
+&ast;::before {
 
 margin: 0;
 
@@ -2715,11 +2809,11 @@ filter: sepia(100%);
 
 }
 
-#  
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #4: Hover
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -2756,13 +2850,15 @@ class=\"hover-effect\"
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
-\*,
+&ast;,
 
-\*::after,
+&ast;::after,
 
-\*::before {
+&ast;::before {
 
 margin: 0;
 
@@ -2788,7 +2884,7 @@ width: 100vw;
 
 background: #fafafa;
 
-/\* background: #c8c7c7; \*/
+/&ast; background: #c8c7c7; &ast;/
 
 font-family: \"Roboto\", sans-serif;
 
@@ -2824,11 +2920,13 @@ filter: grayscale(100%);
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 2 CSS Tab Navigation Templates
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Template #1: CSS Tab Navigation with Animation Effects
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -2890,12 +2988,13 @@ Template #1: CSS Tab Navigation with Animation Effects
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 \@import
 url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap\");
 
-\* {
+&ast; {
 
 padding: 0;
 
@@ -3015,7 +3114,9 @@ font-size: 3.5rem;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 const buttons = document.querySelectorAll(\".btn\");
 
@@ -3054,9 +3155,11 @@ showCity(e, index);
 
 });
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #2: CSS Tab Navigation with a Simple Tabbed Image Gallery
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -3141,8 +3244,9 @@ d=\"M11,9H13V7H11M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4
 
 \<div class=\"card\"\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 \<h2 class=\"\"\>Delivery\</h2\>
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 \<p\>Lorem ipsum dolor, sit amet consectetur adipisicing elit.\</p\>
 
 \</div\>
@@ -3171,12 +3275,14 @@ d=\"M11,9H13V7H11M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \@import
 \"https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400\";
 
-\* {
+&ast; {
 
 padding: 0;
 
@@ -3286,13 +3392,13 @@ font-size: 4rem;
 
 .card p {
 
-/\* position: absolute;
+/&ast; position: absolute;
 
 top: 30%;
 
 left: 50%;
 
-transform: translate(-50%); \*/
+transform: translate(-50%); &ast;/
 
 margin: 0 auto;
 
@@ -3340,7 +3446,7 @@ display: none;
 
 }
 
-/\* text slide up animation \*/
+/&ast; text slide up animation &ast;/
 
 @-webkit-keyframes content {
 
@@ -3382,7 +3488,9 @@ transform: translateY(0%);
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 const buttons = document.querySelectorAll(\".btn\");
 
@@ -3425,11 +3533,13 @@ showCard(e, index);
 
 });
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 2 CSS and JavaScript Slideshow Templates
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 Template #1: Slideshow That Progresses Manually
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -3501,12 +3611,14 @@ Template #1: Slideshow That Progresses Manually
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \@import
 url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap\");
 
-\* {
+&ast; {
 
 padding: 0;
 
@@ -3674,7 +3786,9 @@ background: white;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 const prev = document.querySelector(\".prev\");
 
@@ -3734,11 +3848,11 @@ images\[index\].classList.remove(\"hidden-card\");
 
 }
 
-#  
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #2: Slideshow That Progresses Automatically
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -3812,12 +3926,14 @@ images\[index\].classList.remove(\"hidden-card\");
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \@import
 url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap\");
 
-\* {
+&ast; {
 
 padding: 0;
 
@@ -3985,7 +4101,9 @@ background: white;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ### The JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 const prev = document.querySelector(\".prev\");
 
@@ -4051,11 +4169,13 @@ nextImage(\"next\");
 
 }, 5000);
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # 3 JavaScript onClick with CSS Templates
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ##  Template #1: Display a Hidden Element
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -4085,12 +4205,14 @@ nextImage(\"next\");
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \@import
 url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400\");
 
-\* {
+&ast; {
 
 padding: 0;
 
@@ -4182,7 +4304,9 @@ transition: all 400ms ease;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 const toggleBtn = document.querySelector(\".fixed-btn\");
 
@@ -4196,7 +4320,9 @@ hiddenImage.classList.toggle(\"hidden\");
 
 Template #2: Update a Field
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -4226,12 +4352,14 @@ Template #2: Update a Field
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \@import
 url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400\");
 
-\* {
+&ast; {
 
 padding: 0;
 
@@ -4307,7 +4435,9 @@ letter-spacing: 0.1rem;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 const fillBtn = document.querySelector(\".fill-btn\");
 
@@ -4325,11 +4455,11 @@ Magnam hic a vel perspiciatis asperiores\";
 
 });
 
-#  
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 # Template #3: Change Colors or Other Visual Effects
-
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The HTML
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \<!DOCTYPE html\>
 
@@ -4357,12 +4487,14 @@ Magnam hic a vel perspiciatis asperiores\";
 
 \</html\>
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The CSS
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 \@import
 url(\"https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400\");
 
-\* {
+&ast; {
 
 padding: 0;
 
@@ -4430,7 +4562,9 @@ background-color: #4343f5;
 
 }
 
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 ## The JavaScript
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 const toggleBtn = document.querySelector(\".bg-container .fixed-btn\");
 
@@ -4462,7 +4596,7 @@ e.preventDefault();
 
 container.style.backgroundColor =
 
-colors\[Math.floor(Math.random() \* colors.length)\];
+colors\[Math.floor(Math.random() &ast; colors.length)\];
 
 });
 
@@ -4487,9 +4621,9 @@ src=\"./media/example-video.mp4\"\>\</video\>
 
 \<style\>
 
-/\* Stylized video element \*/
+/&ast; Stylized video element &ast;/
 
-video { /\* Give video elements a red border \*/
+video { /&ast; Give video elements a red border &ast;/
 
 border-width: 5px;
 
@@ -4505,8 +4639,8 @@ border-color: red;
 
 \<style\>
 
-/\* Stylized audio element. Note: Only applicable if controls are
-visible \*/
+/&ast; Stylized audio element. Note: Only applicable if controls are
+visible &ast;/
 
 audio {
 
@@ -4529,7 +4663,7 @@ height="3.2534722222222223in"}
 
 [[Example]{.underline}](https://www.pexels.com/photo/assorted-color-striped-illustration-310452/)
 
-/\* Set entire page background to a color \*/
+/&ast; Set entire page background to a color &ast;/
 
 body {
 
@@ -4537,7 +4671,7 @@ background: red;
 
 }
 
-/\* To an image URL \*/
+/&ast; To an image URL &ast;/
 
 body {
 
@@ -4545,7 +4679,7 @@ background: url(\"./images/image.png\");
 
 }
 
-/\*multiple backgrounds\*/
+/&ast;multiple backgrounds&ast;/
 
 body {
 
@@ -4557,17 +4691,17 @@ background-repeat: no-repeat, repeat;
 
 }
 
-/\* Transparent background \*/
+/&ast; Transparent background &ast;/
 
 body {
 
 background: green;
 
-opacity: 0.5; /\* 50% opacity \*/
+opacity: 0.5; /&ast; 50% opacity &ast;/
 
 }
 
-/\* Position image in center \*/
+/&ast; Position image in center &ast;/
 
 body {
 
@@ -4575,7 +4709,7 @@ background: center url(\"./images/image.png\");
 
 }
 
-/\* Repeat an image \*/
+/&ast; Repeat an image &ast;/
 
 body {
 
@@ -4583,7 +4717,7 @@ background: repeat-x url(\"./images/image.png\");
 
 }
 
-/\* Don\'t repeat an image \*/
+/&ast; Don\'t repeat an image &ast;/
 
 body {
 
@@ -4591,7 +4725,7 @@ background: no-repeat url(\"./images/image.png\");
 
 }
 
-/\* Set background for particular element with id \'my-element\' \*/
+/&ast; Set background for particular element with id \'my-element\' &ast;/
 
 #my-element {
 
@@ -4599,7 +4733,7 @@ background: red;
 
 }
 
-/\* background-blend-mode \*/
+/&ast; background-blend-mode &ast;/
 
 body{
 
@@ -4643,7 +4777,7 @@ background-position: 0 0, 33px 33px, -33px -33px;
 
 }
 
-/\* This demonstrates how a background image filter can be added \*/
+/&ast; This demonstrates how a background image filter can be added &ast;/
 
 body{
 
@@ -4691,7 +4825,7 @@ background: linear-gradient(to left, red, green);
 
 }
 
-/\* Right-to-left gradient \*/
+/&ast; Right-to-left gradient &ast;/
 
 .right-gradient {
 
@@ -4699,7 +4833,7 @@ background: linear-gradient(to right, red, green);
 
 }
 
-/\* Diagonal gradient \*/
+/&ast; Diagonal gradient &ast;/
 
 .diagonal-gradient {
 
@@ -4707,7 +4841,7 @@ background: linear-gradient(to top left, red, green);
 
 }
 
-/\* Angled (33 degree) gradient \*/
+/&ast; Angled (33 degree) gradient &ast;/
 
 .angled-gradient {
 
@@ -4715,7 +4849,7 @@ background: linear-gradient(33deg, red, green);
 
 }
 
-/\* Multi-colored gradient \*/
+/&ast; Multi-colored gradient &ast;/
 
 .rainbow-gradient {
 
@@ -4724,7 +4858,7 @@ indigo, violet);
 
 }
 
-/\* Partially transparent gradient \*/
+/&ast; Partially transparent gradient &ast;/
 
 .transparent-gradient {
 
@@ -4959,7 +5093,7 @@ Pneumonoultramicroscopicsilicovolcanoconiosis
 
 \<style type=\"text/css\"\>
 
-/\* visible overflow \*/
+/&ast; visible overflow &ast;/
 
 .container {
 
@@ -5125,7 +5259,7 @@ overflow: hidden;
 
 }
 
-/\* Example 1: Changing Color \*/
+/&ast; Example 1: Changing Color &ast;/
 
 .green-square {
 
@@ -5165,7 +5299,7 @@ background-color: red;
 
 }
 
-/\* Example 2: Moving across the screen \*/
+/&ast; Example 2: Moving across the screen &ast;/
 
 .black-circle {
 
@@ -5179,7 +5313,7 @@ background-color: black;
 
 }
 
-/\* Example 2a: Moving horizontal slowly \*/
+/&ast; Example 2a: Moving horizontal slowly &ast;/
 
 .horizontal-alternate {
 
@@ -5193,76 +5327,46 @@ animation-direction: alternate;
 
 }
 
-\@keyframes left-to-right {
-
-from {
-
-margin-left: 0%;
-
+&#64;keyframes left-to-right {
+  from {
+    margin-left: 0%;
+  }
+  to {
+    margin-left: 100%;
+  }
 }
 
-to {
-
-margin-left: 100%;
-
-}
-
-}
-
-/\* Example 2b: Moving vertically quickly \*/
+/&ast; Example 2b: Moving vertically quickly &ast;/
 
 .vertical-alternate-fast {
-
-animation-name: top-to-bottom;
-
-animation-duration: 1s;
-
-animation-iteration-count: infinite;
-
-animation-direction: alternate;
-
+  animation-name: top-to-bottom;
+  animation-duration: 1s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
 
-\@keyframes top-to-bottom {
-
-from {
-
-margin-top: 0%;
-
+&#64;keyframes top-to-bottom {
+  from {
+    margin-top: 0%;
+  }
+  to {
+    margin-top: 100%;
+  }
 }
 
-to {
-
-margin-top: 100%;
-
-}
-
-}
-
-/\* Example 3: Animation on hover \*/
-
+/&ast; Example 3: Animation on hover &ast;/
 .green-rounded-square {
-
-width: 200px;
-
-height: 200px;
-
-background-color: green;
-
-border-radius: 1em;
-
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  border-radius: 1em;
 }
-
 .color-transition:hover {
-
-animation-name: to-red;
-
-animation-duration: 3s;
-
-animation-iteration-count: infinite;
-
-animation-direction: alternate;
-
+  animation-name: to-red;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
+&lt;/style&gt;
+</pre>
 
-\</style\>
