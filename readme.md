@@ -523,7 +523,7 @@ bottom: 0;
 height="1.7916666666666667in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;form&gt;
@@ -605,7 +605,7 @@ id=&quot;worldwide&quot;
 &lt;/form&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 .align-center {
@@ -705,14 +705,14 @@ margin: 0 3px 0 10px;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Template #2
+<h2>Template #2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image13.png){width="6.5in"
 height="4.513888888888889in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;form&gt;
@@ -824,7 +824,7 @@ placeholder=&quot;Optional&quot;
 &lt;/form&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &ast; {
@@ -912,14 +912,14 @@ border-radius: 5px;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Template #2
+<h2>Template #2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image14.png){width="3.7226859142607176in"
 height="5.776042213473316in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;form&gt;
@@ -1037,7 +1037,7 @@ height="5.776042213473316in"}
 &lt;/form&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1360,7 +1360,7 @@ opacity: 1;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The JavaScript
+<h3>The JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1495,14 +1495,14 @@ modalImages\[prevId\].classList.remove(&quot;active&quot;)
 []{#kdb634vxe28v .anchor}
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Example #1
+<h2>Example #1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image18.png){width="3.5208333333333335in"
 height="1.4479166666666667in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1515,7 +1515,7 @@ height="1.4479166666666667in"}
 &lt;/div&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1590,13 +1590,13 @@ visibility: visible;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Example #2
+<h2>Example #2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image19.png){width="4.0625in" height="1.03125in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1609,7 +1609,7 @@ visibility: visible;
 &lt;/div&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1677,14 +1677,14 @@ visibility: visible;
 </pre>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Example #3
+<h2>Example #3</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image20.png){width="3.2916666666666665in"
 height="1.4583333333333333in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1698,7 +1698,7 @@ height="1.4583333333333333in"}
 &lt;/div&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 .tooltip {
@@ -1766,14 +1766,14 @@ visibility: visible;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Example #4
+<h2>Example #4</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 ![](./myImages/media/image21.png){width="3.6041666666666665in"
 height="0.9166666666666666in"}
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1857,20 +1857,20 @@ visibility: visible;
 
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# 2 Progress Bar Templates
+<h2>2 Progress Bar Templates</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Example #1
+<h2>Example #1</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## ![](./myImages/media/image22.png){width="5.375in" height="0.875in"}
+<h3>![](./myImages/media/image22.png){width="5.375in" height="0.875in"}</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;progress class=&quot;first&quot; value=&quot;50&quot; max=&quot;100&quot;&gt;&lt;/progress&gt;
 </pre>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1899,9 +1899,9 @@ background-color: purple;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Example #2
+<h2>Example #2</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1915,7 +1915,7 @@ height="0.7395833333333334in"}
 ![](./myImages/media/image24.png){width="5.0in" height="0.78125in"}
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -1962,11 +1962,11 @@ border-radius: 15px;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# 2 CSS Accordian Templates
+<h2>2 CSS Accordian Templates</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Example #1: Accordion Using Only CSS and HTML
+<h2>Example #1: Accordion Using Only CSS and HTML</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -2059,11 +2059,11 @@ tempore itaque quas excepturi.
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
-\@import
+&#64;import
 &quot;https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400&quot;;
 
 body {
@@ -2227,9 +2227,9 @@ padding: 1rem;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Example #2: Accordion Using CSS and HTML and JavaScript
+<h2>Example #2: Accordion Using CSS and HTML and JavaScript</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -2324,11 +2324,11 @@ tempore itaque quas excepturi.
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
-\@import
+&#64;import
 &quot;https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400&quot;;
 
 body {
@@ -2480,7 +2480,7 @@ padding: 1rem;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The JavaScript
+<h3>The JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 const accordions = document.getElementsByClassName(&quot;tab&quot;);
@@ -2498,7 +2498,7 @@ accordion.classList.toggle(&quot;open-tab&quot;);
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# 4 CSS Effects Templates
+<h2>4 CSS Effects Templates</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 
 []{#qjxam0b6i3lz .anchor}
@@ -2506,7 +2506,7 @@ accordion.classList.toggle(&quot;open-tab&quot;);
 Template #1: Opacity
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -2546,7 +2546,7 @@ class=&quot;translucent&quot;
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &ast;,
@@ -2614,9 +2614,9 @@ filter: opacity(35%);
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Template #2: Grayscale
+<h2>Template #2: Grayscale</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -2656,7 +2656,7 @@ class=&quot;black-white&quot;
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -2725,7 +2725,7 @@ filter: grayscale(100%);
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Template #3: Sepia
+<h2>Template #3: Sepia</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;!DOCTYPE html&gt;
@@ -2764,7 +2764,7 @@ class=&quot;nineties-effect&quot;
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -2833,9 +2833,9 @@ filter: sepia(100%);
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Template #4: Hover
+<h2>Template #4: Hover</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -2875,7 +2875,7 @@ class=&quot;hover-effect&quot;
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -2946,11 +2946,11 @@ filter: grayscale(100%);
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# 2 CSS Tab Navigation Templates
+<h2>2 CSS Tab Navigation Templates</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Template #1: CSS Tab Navigation with Animation Effects
+<h2>Template #1: CSS Tab Navigation with Animation Effects</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -3015,10 +3015,10 @@ Template #1: CSS Tab Navigation with Animation Effects
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-\@import
+&#64;import
 url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap&quot;);
 
 &ast; {
@@ -3142,7 +3142,7 @@ font-size: 3.5rem;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The JavaScript
+<h3>The JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -3185,9 +3185,9 @@ showCity(e, index);
 </pre>
 
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Template #2: CSS Tab Navigation with a Simple Tabbed Image Gallery
+<h2>Template #2: CSS Tab Navigation with a Simple Tabbed Image Gallery</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;!DOCTYPE html&gt;
@@ -3306,10 +3306,10 @@ d=&quot;M11,9H13V7H11M12,20C7.59,20 4,16.41 4,12C4,7.59 7.59,4 12,4C16.41,4
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-\@import
+&#64;import
 &quot;https://fonts.googleapis.com/css?family=Montserrat:400,700\|Raleway:300,400&quot;;
 
 &ast; {
@@ -3498,7 +3498,7 @@ transform: translateY(0%);
 
 }
 
-\@keyframes content {
+&#64;keyframes content {
 
 from {
 
@@ -3519,7 +3519,7 @@ transform: translateY(0%);
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The JavaScript
+<h3>The JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -3565,11 +3565,11 @@ showCard(e, index);
 });
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# 2 CSS and JavaScript Slideshow Templates
+<h2>2 CSS and JavaScript Slideshow Templates</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-Template #1: Slideshow That Progresses Manually
+<h2>Template #1: Slideshow That Progresses Manually</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -3644,10 +3644,10 @@ Template #1: Slideshow That Progresses Manually
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
-\@import
+&#64;import
 url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap&quot;);
 
 &ast; {
@@ -3819,7 +3819,7 @@ background: white;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The JavaScript
+<h3>The JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -3882,9 +3882,9 @@ images\[index\].classList.remove(&quot;hidden-card&quot;);
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Template #2: Slideshow That Progresses Automatically
+<h2>Template #2: Slideshow That Progresses Automatically</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -3961,11 +3961,11 @@ images\[index\].classList.remove(&quot;hidden-card&quot;);
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
-\@import
+&#64;import
 url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap&quot;);
 
 &ast; {
@@ -4137,7 +4137,7 @@ background: white;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-### The JavaScript
+#<h3>The JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -4206,11 +4206,11 @@ nextImage(&quot;next&quot;);
 }, 5000);
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# 3 JavaScript onClick with CSS Templates
+<h2>3 JavaScript onClick with CSS Templates</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-##  Template #1: Display a Hidden Element
+<h3>Template #1: Display a Hidden Element</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;!DOCTYPE html&gt;
@@ -4242,11 +4242,11 @@ nextImage(&quot;next&quot;);
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
-\@import
+&#64;import
 url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400&quot;);
 
 &ast; {
@@ -4342,7 +4342,7 @@ transition: all 400ms ease;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The JavaScript
+<h3>The JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 const toggleBtn = document.querySelector(&quot;.fixed-btn&quot;);
@@ -4358,7 +4358,7 @@ hiddenImage.classList.toggle(&quot;hidden&quot;);
 
 Template #2: Update a Field
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 &lt;!DOCTYPE html&gt;
@@ -4390,11 +4390,11 @@ Template #2: Update a Field
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
-\@import
+&#64;import
 url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400&quot;);
 
 &ast; {
@@ -4474,7 +4474,7 @@ letter-spacing: 0.1rem;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The JavaScript
+<h3>The JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -4495,9 +4495,9 @@ Magnam hic a vel perspiciatis asperiores&quot;;
 });
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-# Template #3: Change Colors or Other Visual Effects
+<h2>Template #3: Change Colors or Other Visual Effects</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The HTML
+<h3>The HTML</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -4528,11 +4528,11 @@ Magnam hic a vel perspiciatis asperiores&quot;;
 &lt;/html&gt;
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The CSS
+<h3>The CSS</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
-\@import
+&#64;import
 url(&quot;https://fonts.googleapis.com/css2?family=DynaPuff&display=swap::400,700\|Raleway:300,400&quot;);
 
 &ast; {
@@ -4604,7 +4604,7 @@ background-color: #4343f5;
 }
 </pre>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-## The JavaScript
+<h3>The JavaScript</h3>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <pre>
 
@@ -5325,7 +5325,7 @@ animation-direction: alternate;
 
 }
 
-\@keyframes to-red {
+&#64;keyframes to-red {
 
 from {
 
@@ -5342,33 +5342,20 @@ background-color: red;
 }
 
 /&ast; Example 2: Moving across the screen &ast;/
-
 .black-circle {
-
-width: 200px;
-
-height: 200px;
-
-border-radius: 100%;
-
-background-color: black;
-
+  width: 200px;
+  height: 200px;
+  border-radius: 100%;
+  background-color: black;
 }
 
 /&ast; Example 2a: Moving horizontal slowly &ast;/
-
 .horizontal-alternate {
-
-animation-name: left-to-right;
-
-animation-duration: 3s;
-
-animation-iteration-count: infinite;
-
-animation-direction: alternate;
-
+  animation-name: left-to-right;
+  animation-duration: 3s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
 }
-
 &#64;keyframes left-to-right {
   from {
     margin-left: 0%;
@@ -5379,7 +5366,6 @@ animation-direction: alternate;
 }
 
 /&ast; Example 2b: Moving vertically quickly &ast;/
-
 .vertical-alternate-fast {
   animation-name: top-to-bottom;
   animation-duration: 1s;
